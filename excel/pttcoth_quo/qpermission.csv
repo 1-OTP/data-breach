@@ -1,0 +1,4 @@
+qp_id,qp_edit,qp_name,qp_admin,qp_print,qp_delete,qp_report,qp_approve,qp_new_copy
+1,1,Admin All State,1,1,1,1,1,1
+2,1,User All State,0,1,1,1,1,1
+

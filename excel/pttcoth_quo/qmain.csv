@@ -1,0 +1,5 @@
+id,qid,uid,qtextid,qdate,qpage,qnumber,qstatus,qsubject,qdate_format
+1,1,1,1,2017-07-18,1,1,1,Quotation Android,NULL
+2,2,1,2,2017-07-25,1,2,1,Service Quotations,NULL
+3,3,1,3,2017-07-27,1,3,1,Quotation Software,NULL
+
