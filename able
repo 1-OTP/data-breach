@@ -1,0 +1,1652 @@
+HTTP request [#1]:
+POST /th/search/index.php HTTP/1.1
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.11) Gecko/20101012 Firefox/3.6.11 (.NET CLR 3.5.30729)
+Host: www.ptt.co.th
+Accept: */*
+Accept-Encoding: gzip,deflate
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+Content-length: 26
+Connection: close
+
+search_name=d&search_cat=0
+
+HTTP response [#1] (200 OK):
+Date: Fri, 25 Jul 2025 09:05:45 GMT
+Server: Apache/2
+X-Powered-By: PHP/5.3.29
+Set-Cookie: PHPSESSID=uh0ju56b0jifr6orqt09ov0gb4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 10423
+Connection: close
+Content-Type: text/html; charset=UTF-8
+URI: https://www.ptt.co.th/th/search/index.php
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ptt.co.th: </title>
+<meta name="keywords" content=", ราคาสินค้า, ตรวจสอบราคา, สั่งซื้อออนไลน์, จัดส่งฟรี" />
+<meta name="description" content="ช้อปปิ้ง ในหมวดสินค้า  ตรวจสอบราคา สั่งซื้อออนไลน์ พร้อมบริการจัดส่งและติดตั้ง จาก Ptt.co.th" />
+	<meta property="og:title" content="Ptt.co.th: " />
+	<meta property="og:site_name" content="ช้อปปิ้ง ในหมวดสินค้า  ตรวจสอบราคา สั่งซื้อออนไลน์ พร้อมบริการจัดส่งและติดตั้ง จาก Ptt.co.th" />
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://www.ptt.co.th/assets/css/ptt.css" type="text/css" media="screen">
+<script language="javascript">
+$(function(){
+ $("#search_cat option[value='0']").attr("selected", "selected");
+ });
+</script>
+</head>
+
+<body>
+<div id="wrapper">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MQ0YH577WT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MQ0YH577WT');
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWGQ2Q3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<link rel="shortcut icon" href="https://www.ptt.co.th/assets/images/favicon.ico" />
+<!--<link rel="icon" type="image/png" href="assets/images/favicon.ico">-->
+<link type="text/css" rel="stylesheet" href="https://www.ptt.co.th/assets/css/jquery-ui-1.8.14.custom.css" />
+<script type="text/javascript" src="https://www.ptt.co.th/assets/js/jquery-ui-1.8.14.custom.min.js"></script>
+<script src="https://www.ptt.co.th/assets/js/raty/jquery.raty.js"></script>
+<script src="https://www.ptt.co.th/assets/js/staraty.js"></script>
+<!--<link rel="stylesheet" href="assets/css/raty.css" type="text/css" >-->
+<script type="text/javascript">
+$(function(){
+	$("#product-search").autocomplete({
+					source: "https://www.ptt.co.th/th/index/auto/autocomplete.php",
+					minLength: 2,//search after two characters
+				});  
+	
+});
+
+</script>
+<script type="text/javascript">
+/*script for containt load before image loade*/
+$(function(){
+    $.each(document.images, function(){
+               var this_image = this;
+               var src = $(this_image).attr('src') || '' ;
+               if(!src.length > 0){
+                   //this_image.src = options.loading; // show loading
+                   var lsrc = $(this_image).attr('lsrc') || '' ;
+                   if(lsrc.length > 0){
+                       var img = new Image();
+                       img.src = lsrc;
+                       $(img).load(function() {
+                           this_image.src = this.src;
+                       });
+                   }
+               }
+           });
+});
+</script>
+<div id="logo-header">
+    	<table cellpadding="0" cellspacing="0" style="width: 980px;">
+        <!--<tr>
+        <td colspan="3">-->
+        <!--<img src="https://www.ptt.co.th/assets/images/banner_30_ptt_02.png">-->
+        <!--<img src="https://www.ptt.co.th/assets/images/ptt_30_anniversary.jpg">-->
+        
+        <!--</td>
+        </tr>-->
+
+        <tr>
+        <td colspan="3" align="right" style="padding-right:4px;">
+        <a onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.ptt.co.th/');" href="https://www.ptt.co.th/">ตั้งเว็บ ptt.co.th เป็นหน้าแรก </a> | 
+        
+          <a href="https://www.ptt.co.th/th/login" class="menu">เข้าสู่ระบบ / สมัครสมาชิก</a>
+   
+        </td>
+        </tr>
+      <tr>
+      <td rowspan="2"><a href="https://www.ptt.co.th/"><img src="https://www.ptt.co.th/assets/images/ptt_logo.png" /></a></td>
+      <td colspan="1" align="center"><h2 style="padding-top: 20px; font-size:35px; color:#211792;">จำหน่าย ติดตั้ง บริการ ตู้สาขาโทรศัพท์</h2></td>
+      <td rowspan="2"><img src="https://www.ptt.co.th/assets/images/thailand-ict-awards2011_3.png" /></td>
+      </tr>
+      <tr>
+      <td align="center"><h1 style="margin: 0; padding: 0;font-size:20px; color:red;"> <span style="color:#211792;">Forth Panasonic NEC Yeastar</span> ประสบการณ์ <span style="color: red;font-size:20px;">34</span> ปี</h1></td>
+      </tr>
+    </table>
+	    
+</div>
+<div id="menu-header" style="margin-top: 10px;">
+<table cellpadding="0" cellspacing="0">
+        
+        <tr>
+            	<td align="left" colspan="2" width="660">
+               
+ <a href="https://www.ptt.co.th/" class="menu">หน้าแรก</a> | 
+ <a href="https://www.ptt.co.th/th/product/all_product.php" class="menu">สินค้า</a> |
+ <a href="https://www.ptt.co.th/th/help/how_to_pay.php" class="menu">วิธีการชำระเงิน</a>| 
+ <a href="https://www.ptt.co.th/th/help" class="menu">ส่วนช่วยเหลือ</a>| 
+ <a href="https://www.ptt.co.th/th/contact" class="menu">ติดต่อเรา</a>| 
+ <a href="https://www.ptt.co.th/th/login/dealer_login.php" class="menu">ตัวแทนจำหน่าย</a> | 
+<a href="https://www.ptt.co.th/th/company/customer.php" class="menu">ลูกค้าของเรา</a>
+        
+   	</td>
+    <td align="right" width="340">
+    <a href="https://web.facebook.com/ptt.co.th/" target="_blank"><img src="https://www.ptt.co.th/assets/images/facebook_icon.png" width="22" height="22" align="absmiddle"/></a> | 
+    <a href="https://www.tiktok.com/@pttcoth" target="_blank"><img src="https://www.ptt.co.th/assets/images/tiktok_icon.png" width="22" height="22" align="absmiddle"/></a> | 
+    <b style="color: black; font-size:20px;">Call</b> <b style="color: #a00;font-size:20px;">02-514-0300</b>(auto 10 สาย)
+    <!--<b style="color: black; font-size:16px;">Call</b> <b style="color: #a00;font-size:16px;">089-225-8883, 088-548-8972, 092-395-9009</b>-->
+  </td>
+    </tr>
+      
+          </table>
+</div>
+
+<div style="width:960px; margin:0 auto;margin-top:10px; background-color:#2d89ef;">
+	<table border="0" cellpadding="0" cellspacing="3" border="1">
+    <tr>
+    <td width="230" valign="middle">
+        <ul id="menu"> 
+    <li><a href="#">หมวดหมู่สินค้า<span style="float:right;"><img src="https://www.ptt.co.th/assets/images/down.png" align="absmiddle" /></span></a> 
+      
+      <ul class="menu-in"> 
+              <li class="list-menu"><a href="#">Hybrid Mesh Firewall <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=101">Cloud-Native Network Firewall</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=99">Next-Generation Firewall</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=100">Virtual Next-Generation Firewall</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">Intercom <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=94">KOCOM </a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">Rack <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=71">accessories PABX</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=78">Germany Rack Cabinet</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=81">Germany Server Rack</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=80">Germany Wall Rack</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">Smart Home <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=97">Smart Home</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">Video Conference <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=104">hub</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=105">Room System</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=103">speaker</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=102">กล้องอัจฉริยะ</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">กล้องวงจรปิดและอุปกรณ์เสริม <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=31">Accessories</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=28">Housing</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=12">Infrared Camera</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=88">ip video conference</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=13">Standard Camera</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=30">ขาตั้งกล้อง</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=76">ชุดหูฟัง</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=29">ตัวขยายสัญญาณ</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=55">สายนำสัญญาณ</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=56">หัวต่อ/Connecter</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">เครื่องบันทึกภาพ DVR <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=72">16 Channel</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=39">24 Channel</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=40">32 Channel</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=14">4 Channel</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=15">8 Channel</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=58">ฮาร์ดดิสก์</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">เครื่องพิมพ์ / Printer <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=70">เครื่องพิมพ์เลเซอร์อเนกประสงค์</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">เครื่องมือสำหรับติดตั้ง <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=77">เครื่องมือสำหรับช่าง</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">ซอฟต์แวร์ <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=46">ET-Bill</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=24">Logocheque</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=48">USB Business Card</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">ตู้สาขาโทรศัพท์ <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=71">accessories PABX</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=17">Analog PABX</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=18">IP PBX</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=84">Surge Guard</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=61">สายโทรศัพท์ Telephone Cable </a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=53">อุปกรณ์เผื่อเลือก /Option</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=52">อุปกรณ์สำรองไฟ/Batter Backup</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">โทรศัพท์/เครื่องแฟกซ์ <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=33">Analog Telephone Adaptor </a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=42">Fax Consumables</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=93">headset</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=34">IP Analog Gateway</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=36">IP Multimedia Phone</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=10">IP Phone</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=96">ip phone accessories</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=37">IP Video Encoder</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=35">IP Video Phone </a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=21">Line Mobile</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=54">โทรศัพท์แขวน</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=9">โทรศัพท์ตั้งโต๊ะ</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=7">โทรศัพท์แบบเครื่องคีย์</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=8">โทรศัพท์ไร้สาย</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">โปรโมชั่น <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=95">โปรโมชั่น 11.11</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=75">โปรโมชั่นโทรศัพท์</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">ฝาสุขภัณฑ์ชำระล้างแบบอัตโนมัติ <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">ระบบเยี่ยมผู้ต้องขัง <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=50">ระบบเยี่ยมผู้ต้องขัง</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">ระบบเรียกพยาบาล (Nurse Call System) <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=49">NC 64 Series</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=60">ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">อุปกรณ์เน็ตเวิร์ค <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=114"></a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=113">Convergence Product</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=26">Embedded</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=109">Layer2 Managed Ethernet Switch</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=110">Layer3 Managed Ethernet Switch</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=112">Multi-Wan Router</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=108">Outdoor Ethernet Switch</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=111">SFP Module for Ethernet Switch</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=107">Unmanaged Ethernet Switch</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=59">Wireless Router/ Access Point</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=51">ค่ามัดจำสินค้า</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=62">สวิตช์ฮับ</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">อุปกรณ์อิเล็คทรอนิกส์ <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=32">Access Control </a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=20">Voice Logger</a>
+            	</li>
+                     		<li class="list-menu-in">
+            		<a href="https://www.ptt.co.th/th/product/index.php?id=47">Voice Recorder</a>
+            	</li>
+                     	</ul>
+           
+        </li> 
+                <li class="list-menu"><a href="#">เอกสารออนไลน์ <span style="float:right"><img src="https://www.ptt.co.th/assets/images/right.png" align="absmiddle" /></span></a>
+        	<ul class="list-menu-in">
+                    	</ul>
+           
+        </li> 
+                 <li class="list-menu"><a href="https://www.ptt.co.th/th/department/index.php">หมวดหมู่สินค้าทั้งหมด</a></li>
+             <li class="list-menu"><a href="https://www.ptt.co.th/th/brand/brand.php">ซื้อสินค้าจากแบรนด์</a></li>
+      </ul> 
+      
+     
+      
+    </li>
+  </ul>
+  </td>
+  
+  <td width="650" align="left" valign="middle">
+  <form action="https://www.ptt.co.th/th/search/index.php" method="post">
+  <input type="text" name="search_name" id="product-search" style="width: 300px;"  /><!--style="width:300px; border:none; height:20px;"-->
+  <select name="search_cat" id="search_cat" style="width: 120px;" ><!--style="border:none; font-size:14px; width:130px; height:20px;"-->
+    <option value="0">สินค้าทุกหมวด</option>
+    <option value="22">ฝาสุขภัณฑ์ชำระล้างแบบอัตโนมัติ</option>
+    <option value="20">เอกสารออนไลน์</option>
+    <option value="2">ตู้สาขาโทรศัพท์</option>
+    <option value="19">ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ</option>
+    <option value="11">เครื่องบันทึกภาพ DVR</option>
+    <option value="3">กล้องวงจรปิดและอุปกรณ์เสริม</option>
+    <option value="12">อุปกรณ์อิเล็คทรอนิกส์</option>
+    <option value="10">โทรศัพท์/เครื่องแฟกซ์</option>
+    <option value="16">ระบบเยี่ยมผู้ต้องขัง</option>
+    <option value="15">ระบบเรียกพยาบาล (Nurse Call System)</option>
+    <option value="14">อุปกรณ์เน็ตเวิร์ค</option>
+    <option value="13">ซอฟต์แวร์</option>
+    <option value="23">เครื่องพิมพ์ / Printer</option>
+    <option value="25">โปรโมชั่น</option>
+    <option value="26">เครื่องมือสำหรับติดตั้ง</option>
+    <option value="27">Rack</option>
+    <option value="32">Smart Home</option>
+    <option value="33">Hybrid Mesh Firewall</option>
+    <option value="34">Intercom</option>
+    <option value="35">Video Conference</option>
+    </select>
+  <input type="submit" value="ค้นหา" />
+  </form>
+  </td>
+  
+  <td width="300" align="center" valign="middle">
+  <img src="https://www.ptt.co.th/assets/images/cart2.png" align="absmiddle" width="32" />
+  	<b>สินค้าในรถเข็น</b> 0 <b>ชิ้น</b>  
+  </td>
+  	</tr>
+  </table>
+  </div>
+ 
+ 
+	<div id="main">
+    <div id="navi">
+     <a href="https://www.ptt.co.th/">หน้าแรก</a> >  		<br class="clearfix" />
+	 </div>
+         
+        
+         <div class="content_r">
+            <div class="post1_r">
+                
+ <h1 class="head-navi">
+    </h1>
+   <p>
+          </p>
+ <div class="head-post">
+ <form method="POST" name="form3" action="https://www.ptt.co.th/th/search/index.php">
+ <input type="hidden" name="search_cat" value="0" />
+ <input type="hidden" name="search_name" value="d" />
+   แสดงลำดับที่ 1 - 24 จากทั้งหมด 188 รายการ <span style="float:right; margin-right:20px;">เรียงตาม : 
+ <select name="by" onchange="this.form.submit();">
+   <option value="pro_track DESC">ความนิยม</option>
+ <option value="pro_price ASC">ราคา น้อย ไป มาก</option>
+ <option value="pro_price DESC" selected="selected">ราคา มาก ไป น้อย</option>
+   </select>
+ </span>
+  </form>
+ </div>
+ 
+              <div class="post1_r">
+         
+ 
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">1.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2849">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2849_1_HA9888(12)TSD-6S.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2849" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2849">Bittel HA9888(12)TSD-6S</a></p>
+                <p>
+                <script>
+                addScore("2849",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2849"></span><br />
+                <span class="hint-2849">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>1,400.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">2.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2848">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2848_1_Bittel_0S.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2848" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2848">Bittel HA9888(38)TSD-10S</a></p>
+                <p>
+                <script>
+                addScore("2848",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2848"></span><br />
+                <span class="hint-2848">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>2,190.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">3.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2842">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2842_1_byod-box.png" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2842" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2842">BYOD-BOX</a></p>
+                <p>
+                <script>
+                addScore("2842",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2842"></span><br />
+                <span class="hint-2842">()</span>
+                </p>
+                <p>
+                <span style="color:black;font-size:12px;">(<a style="font-size:12px;color:#f65314;" href = "https://www.ptt.co.th//th/help/not_show_price.php" target="_blank">ทำไมเราไม่แสดงราคา?</a>)</span>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">4.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2841">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2841_1_uvc30-cp900.png" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2841" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2841">UVC30-CP900-BYOD</a></p>
+                <p>
+                <script>
+                addScore("2841",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2841"></span><br />
+                <span class="hint-2841">()</span>
+                </p>
+                <p>
+                <span style="color:black;font-size:12px;">(<a style="font-size:12px;color:#f65314;" href = "https://www.ptt.co.th//th/help/not_show_price.php" target="_blank">ทำไมเราไม่แสดงราคา?</a>)</span>                </p>
+                </div>
+         		<br class="clearfix" />
+            <h6 class="bar">\xa0</h6>
+ 
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">5.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2840">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2840_1_cp700.png" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2840" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2840">CP700 with dongle Teams </a></p>
+                <p>
+                <script>
+                addScore("2840",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2840"></span><br />
+                <span class="hint-2840">()</span>
+                </p>
+                <p>
+                <span style="color:black;font-size:12px;">(<a style="font-size:12px;color:#f65314;" href = "https://www.ptt.co.th//th/help/not_show_price.php" target="_blank">ทำไมเราไม่แสดงราคา?</a>)</span>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">6.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2837">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2837_1_cp900-dongle.png" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2837" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2837">CP900 with dongle Teams</a></p>
+                <p>
+                <script>
+                addScore("2837",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2837"></span><br />
+                <span class="hint-2837">()</span>
+                </p>
+                <p>
+                <span style="color:black;font-size:12px;">(<a style="font-size:12px;color:#f65314;" href = "https://www.ptt.co.th//th/help/not_show_price.php" target="_blank">ทำไมเราไม่แสดงราคา?</a>)</span>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">7.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2835">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2835_1_uvc30.png" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2835" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2835">UVC30 Desktop</a></p>
+                <p>
+                <script>
+                addScore("2835",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2835"></span><br />
+                <span class="hint-2835">()</span>
+                </p>
+                <p>
+                <span style="color:black;font-size:12px;">(<a style="font-size:12px;color:#f65314;" href = "https://www.ptt.co.th//th/help/not_show_price.php" target="_blank">ทำไมเราไม่แสดงราคา?</a>)</span>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">8.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2823">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2823_1_main.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2823" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2823">FortiGate for AWS, Azure and Public Cloud - 1Y</a></p>
+                <p>
+                <script>
+                addScore("2823",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2823"></span><br />
+                <span class="hint-2823">()</span>
+                </p>
+                <p>
+                <span style="color:black;font-size:12px;">(<a style="font-size:12px;color:#f65314;" href = "https://www.ptt.co.th//th/help/not_show_price.php" target="_blank">ทำไมเราไม่แสดงราคา?</a>)</span>                </p>
+                </div>
+         		<br class="clearfix" />
+            <h6 class="bar">\xa0</h6>
+ 
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">9.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2790">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2790_1_S__38936604.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2790" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2790">KX-A423CE AC Adaptor </a></p>
+                <p>
+                <script>
+                addScore("2790",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2790"></span><br />
+                <span class="hint-2790">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>262.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">10.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2743">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2743_1_WP-810-front.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2743" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2743">Grandstream WP-810</a></p>
+                <p>
+                <script>
+                addScore("2743",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2743"></span><br />
+                <span class="hint-2743">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>5,330.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">11.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2742">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2742_1_WP-820-front.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2742" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2742">Grandstream WP-820</a></p>
+                <p>
+                <script>
+                addScore("2742",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2742"></span><br />
+                <span class="hint-2742">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>8,450.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">12.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2741">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2741_1_GPR2612W.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2741" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2741">Grandstream GPR26012W 2 SIP Enterprise 4 line IP Phone</a></p>
+                <p>
+                <script>
+                addScore("2741",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2741"></span><br />
+                <span class="hint-2741">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>4,860.00 บาท</p>                </p>
+                </div>
+         		<br class="clearfix" />
+            <h6 class="bar">\xa0</h6>
+ 
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">13.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2740">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2740_1_GPR2602W.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2740" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2740">Grandstream GPR2602W Supports 2 lines, and 4 SIP accounts</a></p>
+                <p>
+                <script>
+                addScore("2740",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2740"></span><br />
+                <span class="hint-2740">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>3,380.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">14.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2733">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2733_1_YHS34-Dual.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2733" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2733">YHS34-Dual</a></p>
+                <p>
+                <script>
+                addScore("2733",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2733"></span><br />
+                <span class="hint-2733">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>1,770.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">15.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2732">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2732" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2732">Spiral Cord</a></p>
+                <p>
+                <script>
+                addScore("2732",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2732"></span><br />
+                <span class="hint-2732">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>100.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">16.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2731">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2731" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2731">Adapter3 </a></p>
+                <p>
+                <script>
+                addScore("2731",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2731"></span><br />
+                <span class="hint-2731">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>540.00 บาท</p>                </p>
+                </div>
+         		<br class="clearfix" />
+            <h6 class="bar">\xa0</h6>
+ 
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">17.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2727">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2727_1_WF-40.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2727" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2727">WF40 Wi-Fi USB Dongle</a></p>
+                <p>
+                <script>
+                addScore("2727",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2727"></span><br />
+                <span class="hint-2727">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>1,355.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">18.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2710">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2710_1_TD002-Wireless-Call.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2710" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2710">การโทรแบบไร้สาย ปุ่มสําหรับพยาบาล รุ่น TD002</a></p>
+                <p>
+                <script>
+                addScore("2710",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2710"></span><br />
+                <span class="hint-2710">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>300.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">19.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2709">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2709_1_TD003-Wireless-Call.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2709" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2709">ปุ่มการโทรแบบไร้สาย สําหรับผู้สูงอายุ โรงพยาบาลและคลินิก รุ่นTD003</a></p>
+                <p>
+                <script>
+                addScore("2709",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2709"></span><br />
+                <span class="hint-2709">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>500.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">20.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2708">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2708_1_TD021-Signal-Repeater-for-Pager-System-and-Service-Calling-System.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2708" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2708">ตัวทวนสัญญาณสําหรับเพจเจอร์ ระบบและบริการระบบการโทร รุ่น TD021</a></p>
+                <p>
+                <script>
+                addScore("2708",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2708"></span><br />
+                <span class="hint-2708">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>2,400.00 บาท</p>                </p>
+                </div>
+         		<br class="clearfix" />
+            <h6 class="bar">\xa0</h6>
+ 
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">21.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2707">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2707_1_TD121-Healthcare-Call-System-Wireless-Host-Receiver.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2707" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2707">Healthcare Call System Wireless Host Receiver รุ่น TD121 </a></p>
+                <p>
+                <script>
+                addScore("2707",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2707"></span><br />
+                <span class="hint-2707">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>13,500.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">22.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2706">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2706_1_TD123-Nurse-Calling-System-Display.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2706" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2706">ระบบเรียกพยาบาล รุ่น TD123 </a></p>
+                <p>
+                <script>
+                addScore("2706",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2706"></span><br />
+                <span class="hint-2706">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>13,500.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">23.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2704">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2704_1_TD009-สายคล้องคอ-Water-Proof-Calling-Button-with-String.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2704" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2704">สายคล้องคอ Waterproof Calling Button with String รุ่น TD009</a></p>
+                <p>
+                <script>
+                addScore("2704",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2704"></span><br />
+                <span class="hint-2704">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>300.00 บาท</p>                </p>
+                </div>
+          
+            	<div style="float:left; margin-left:10px; width:170px;">
+                <p style="font-size:11px; color:#666;">24.</p>
+                <p><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2700">
+                                <img src="https://www.ptt.co.th/assets/images/product/mid/mid_2700_1_TD009-สายคล้องคอ-WATER-PROOF-+-TH102-Receiver.jpg" width="135" /></a></p>
+                <p><form action="https://www.ptt.co.th/th/product/item.php" method="GET"><input type="hidden" name="pro_id" value="2700" /><input type="submit" value="รายละเอียดเพิ่มเติม" class="ptt-button-detail" /> </form></p>
+                <p style="font-size:14px;"><a href="https://www.ptt.co.th/th/product/item.php?pro_id=2700">ที่เรียกฉุกเฉินแบบคล้องคอผู้ป่วยและกันน้ำ รุ่น TD009 + เครื่องรับสัณญานติดผนังแบบเสียบปลั๊กไฟขายเป็นชุด รุ่น TH102 Receiver</a></p>
+                <p>
+                <script>
+                addScore("2700",1,"https://www.ptt.co.th/");
+                </script>
+                <span class="star2700"></span><br />
+                <span class="hint-2700">()</span>
+                </p>
+                <p>
+                <p class='price'><span class='text_price'>ราคา </span>800.00 บาท</p>                </p>
+                </div>
+         		<br class="clearfix" />
+            <h6 class="bar">\xa0</h6>
+           
+           	</div><!--end div post-->
+            
+<div class="foot-post">
+<ul id="number">
+	<li class="navi-foot"> | </li>
+ 	<li class="navi-foot">Page : </li>
+    <!--กรณี total page มากกว่า 5 หน้า-->
+                    <li class="navi-foot"><a href="https://www.ptt.co.th/th/search/index.php?page=1&search_cat=0&search_name=d&by=pro_id DESC" class="k">1</a></li>
+                                	
+		                    <li class="navi-foot"><a href="https://www.ptt.co.th/th/search/index.php?page=2&search_cat=0&search_name=d&by=pro_id DESC">2</a></li>     
+                                	
+		                    <li class="navi-foot"><a href="https://www.ptt.co.th/th/search/index.php?page=3&search_cat=0&search_name=d&by=pro_id DESC">3</a></li>     
+                                	
+		                    <li class="navi-foot"><a href="https://www.ptt.co.th/th/search/index.php?page=4&search_cat=0&search_name=d&by=pro_id DESC">4</a></li>     
+                                	
+		                    <li class="navi-foot"><a href="https://www.ptt.co.th/th/search/index.php?page=5&search_cat=0&search_name=d&by=pro_id DESC">5</a></li>     
+                                	
+		  <li class="navi-foot">...</li>        <li class="navi-foot"> | </li>
+     <li class="navi-foot"><a href="https://www.ptt.co.th/th/search/index.php?page=2&search_cat=0&search_name=d&by=pro_id DESC"> Next >></a></li>     
+   </ul>               
+   
+</div>    
+              
+                       </div>
+        </div>
+        <div class="sidebar_content_l">
+                                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=25">โปรโมชั่น</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=75" class="menuh">โปรโมชั่นโทรศัพท์</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/department/index.php">หมวดหมู่สินค้าทั้งหมด</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/department/index.php" class="menuh">หมวดหมู่สินค้าทั้งหมด</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="#">Network</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="https://www.ptt.co.th/th/product/index.php?id=99" class="menuh">Next-Gen Firewall</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=2">ตู้สาขาโทรศัพท์ </a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=38&cl_id=2" class="menuh">ตู้สาขา Yeastar</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="https://www.ptt.co.th/th/brand/index.php?id=51&cl_id=2" class="menuh">ตู้สาขา Ericsson-LG</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="https://www.ptt.co.th/th/brand/index.php?id=4&cl_id=2" class="menuh">ตู้สาขา Grandstream</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=3&cl_id=2" class="menuh">ตู้สาขา Forth</a>
+                    <img src = "https://www.ptt.co.th/assets/images/hot.gif" />                </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=1&cl_id=2" class="menuh">ตู้สาขา Panasonic</a>
+                    <img src = "https://www.ptt.co.th/assets/images/hot.gif" />                </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=2&cl_id=2" class="menuh">ตู้สาขา NEC</a>
+                    <img src = "https://www.ptt.co.th/assets/images/hot.gif" />                </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=84" class="menuh">SurgeGuard</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/brand.php" class="menuh">ซื้อจากแบรนด์สินค้า</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=61" class="menuh">สายโทรศัพท์ Telephone Cable</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=52" class="menuh">อุปกรณ์สำรองไฟ/อุปกรณ์กันฟ้า</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=53" class="menuh">อุปกรณ์เผื่อเลือก/Option</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/department/index.php" class="menuh">หมวดหมู่สินค้าทั้งหมด</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=10">โทรศัพท์/โทรสาร/Voip</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=10" class="menuh">ip phone</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=7" class="menuh">โทรศัพท์แบบเครื่องคีย์</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=9" class="menuh">โทรศัพท์ตั้งโต๊ะ</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=8" class="menuh">โทรศัพท์ไร้สาย</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=54" class="menuh">โทรศัพท์แขวน</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=10" class="menuh">โทรศัพท์แบบไอพี</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=33" class="menuh">Analog Telephone Adaptor</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=35" class="menuh">IP Video Phone</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=37" class="menuh">IP Video Encoder</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=34" class="menuh">IP Analog Gateway</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=36" class="menuh">IP Multimedia Phone</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=96" class="menuh">ip phone accessories</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=27">Germany Rack</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=78" class="menuh">Germany Rack Cabinet</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=81" class="menuh">Germany Server Rack</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=80" class="menuh">Germany Wall Rack</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=71" class="menuh">Accessories Rack</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=3">กล้องวงจรปิดและอุปกรณ์เสริม </a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=7&cl_id=11" class="menuh">Hi-View DVR</a>
+                    <img src = "https://www.ptt.co.th/assets/images/hot.gif" />                </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=7&cl_id=3" class="menuh">Hi-View Camera</a>
+                    <img src = "https://www.ptt.co.th/assets/images/hot.gif" />                </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=9" class="menuh">RaySharp DVR</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=12" class="menuh">กล้องวงจรปิด อินฟาเรด</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=13" class="menuh">กล้องวงจรปิด Standard</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=31" class="menuh">Accessories</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=28" class="menuh">กล่องหุ้มกล้อง (Housing)</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=30" class="menuh">ขาตั้งกล้อง</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=29" class="menuh">ตัวขยายสัญญาณ</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=18&cat_id=58" class="menuh">ฮาร์ดดิสก์สำหรับ DVR</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=55" class="menuh">สายนำสัญญาณ</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/brand/index.php?id=32" class="menuh">ชุดหูฟัง</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=56" class="menuh">Connector</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=19" class="menuh">Lens</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=12">อุปกรณ์อิเล็คทรอนิกส์ </a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=97" class="menuh">Smart Home</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=47" class="menuh">Voice Recorder</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=32" class="menuh">Access Control</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=20" class="menuh">Voice Logger</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=63" class="menuh">Finger Scan (เครื่องลงเวลาด้วยนิ้วมือ)</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=26">เครื่องมือสำหรับติดตั้ง</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=77" class="menuh">เครื่องมือสำหรับช่าง</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=23">เครื่องพิมพ์ / โทรสาร</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/search/index.php?search_cat=23" class="menuh">เครื่องพิมพ์อเนกประสงค์</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/search/index.php?search_cat=13">ซอฟต์แวร์</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/logocheque/" class="menuh">Logocheque</a>
+                    <img src = "https://www.ptt.co.th/assets/images/hot.gif" />                </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/BizCard/" class="menuh">USB Business Card</a>
+                                    </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/ETBill/" class="menuh">ET-Bill</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/product/index.php?id=26">อินเตอร์เน็ต</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/InternetApartment/index.php" class="menuh">อินเตอร์เน็ตอพาร์ทเม้นท์ Embedded</a>
+                    <img src = "https://www.ptt.co.th/assets/images/hot.gif" />                </td>
+                </tr>
+                               <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/product/index.php?id=59" class="menuh">Wireless Router / Access Point</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://www.ptt.co.th/th/PrisonVisitor/">ระบบเยี่ยมผู้ต้องขัง</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/PrisonVisitor/" class="menuh">ระบบเยี่ยมผู้ต้องขัง</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="http://ptt.co.th/th/UtilitySystem/index.php">ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ </a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://ptt.co.th/th/UtilitySystem/index.php" class="menuh">ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ </a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="">ระบบเรียกพยาบาล</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                <tr>
+                <td>
+                
+                    <a href="http://www.ptt.co.th/th/NurseCall/" class="menuh">NC 64 Series</a>
+                                    </td>
+                </tr>
+                               </table>
+                </div>
+                       <div class="sidebar_content_l_head">
+                  <a href="">Intercom</a>
+                </div>
+                
+                  
+                <div class="sidebar_content_l_row">
+                <table>
+                                </table>
+                </div>
+                
+                
+            
+                
+                                <br class="clearfix" />
+            </div>
+        
+	</div>
+    <br class="clearfix" />
+</div>
+
+<!--history zone-->
+<!--end history zone-->
+<div id="footer">
+	
+
+
+
+<!-- Start Footer-->
+<div id="footer-in">
+<table style="width: 960px; margin: 0 auto;">
+<tr>
+	<td width="250" align="left" valign="top">
+		<ul style="list-style:none;">
+        <li class="foot-head">บริษัท</li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/company/company.php">เกี่ยวกับเรา</a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/company/vision.php">วิสัยทัศน์และพันธกิจ</a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/company/director.php">ผู้บริหาร</a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/blog">บทความ</a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/company/customer.php">ลูกค้าของเรา</a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/contact">ติดต่อเรา</a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/suggestions">เสนอแนะเรา</a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/login/dealer_login.php">ตัวแทนจำหน่าย</a></li>
+        
+       <!-- <li>\xa0</li>
+        <li><a href="#">แผนผังเว็บ</a></li>-->
+        </ul>
+	</td>
+    
+<td width="300" align="left" valign="top">
+		<ul style="list-style:none;">
+        <li class="foot-head">สินค้าเด่น</li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/brand/index.php?id=3&cl_id=2">ตู้สาขาโทรศัพท์ FORTH</a></li>
+        <li>&nbsp;</li>
+        <li><a href="https://www.ptt.co.th/th/brand/index.php?id=1&cl_id=2">ตู้สาขาโทรศัพท์ PANASONIC</a></li>
+        <li>&nbsp;</li>
+        <li><a href="https://www.ptt.co.th/th/brand/index.php?id=2&cl_id=2">ตู้สาขาโทรศัพท์ NEC</a></li>
+        <li>&nbsp;</li>
+        <li><a href="https://www.ptt.co.th/th/department/index.php">หมวดหมู่สินค้าทั้งหมด </a></li>
+        <li>\xa0</li>
+        <li><a href="https://www.ptt.co.th/th/brand/brand.php">ซื้อจากแบรนด์สินค้า </a></li>
+        </ul>
+	</td>    
+    
+
+<td width="350" align="left" valign="top">
+	<ul style="list-style:none;">
+    <li class="foot-head">ส่วนช่วยเหลือ</li>
+    <li>\xa0</li>
+    <li><a href="https://www.ptt.co.th/th/help">ช่วยเหลือ</a></li>
+    <li>\xa0</li>
+    <li><a href="https://www.ptt.co.th/th/help/privacy_cookie.php">นโยบายความปลอดภัยและความเป็นส่วนบุคคล</a></li>
+    <li>\xa0</li>
+    <li><a href="https://www.ptt.co.th/th/help/term_of_use.php">ข้อตกลงและเงื่อนไขการใช้บริการ</a></li>
+    <li>\xa0</li>
+    <li><a href="https://www.ptt.co.th/th/sitemap/">แผนผังเว็บไซต์</a></li>
+    </ul>
+</td>
+<td width="300" align="left" valign="top">
+	<ul style="list-style:none;">
+        <li class="foot-head">เว็บไซต์ในเครือ</li>
+        <li>\xa0</li>
+        <li><a href="http://www.mesati.com" target="_blank"><img src="https://www.ptt.co.th/assets/images/mesati_logo.png" width="100" /></a></li>
+        <li>\xa0</li>
+        <li><a href="http://www.mesati.com" target="_blank"><img src="https://www.ptt.co.th/assets/images/mesati_thai.png" width="100" /></a></li>
+        
+        <li>\xa0</li>
+        <li><a href="http://www.logocheque.com" target="_blank"><img src="https://www.ptt.co.th/assets/images/brand_logocheque_thai.jpg" /></a></li>
+        </ul>
+</td>
+</tr>
+<!--<tr>
+<td colspan="3" align="center"><iframe frameborder="0" height="62" marginheight="0" marginwidth="0" scrolling="no" width="122" align="middle" src="http://webrank.truehits.net/webrank/c0003245.php" title=""></iframe></td>
+</tr>-->
+</table>
+</div>
+
+<!--add ling friend-->
+<div style="position: fixed;bottom: 22px;right: 100px;"><a href="https://line.me/R/ti/p/@gxy5198p"><img height="60" border="0" alt="เพิ่มเพื่อน" src="http://ptt.co.th/assets/images/line_friend.png"></a></div>
+
+<div>
+<table style="margin: 0 auto; width: 960px;">
+<tr>
+<td align="center" colspan="3" valign="top"><a href="https://www.ptt.co.th/"><img src="https://www.ptt.co.th/assets/images/ptt_logo.png" /></a></td>
+</tr>
+
+<tr>
+
+<td colspan="3" align="center"><p style="font-size: 13px;"><span style="color: #808080;"> Copyright 1991 - 2025 , Pacific Telecommunication & telephone Co.ltd.,</span> <!--<script type="text/javascript" language="javascript1.1" src="http://hits.truehits.in.th/data/c0003245.js"></script></p>-->
+ <p style="font-size: 13px;"><a href="https://www.ptt.co.th/" style="color: #808080;">บริษัท แปซิฟิคโทรคมนาคมและโทรศัพท์ จำกัด</a>
+ <span style="color: #808080;">1632 - 1634 ถ.ลาดพร้าว เขตวังทองหลาง แขวงวังทองหลาง กทม. 10310 ทะเบียนพาณิชย์อิเล็กทรอนิกส์: <a href="http://www.dbd.go.th/edirectory/paper/?id=0105534036086" target="_new">0105534036086</a> </span></p>
+ <b>Call Center:  02-514-0300 Auto 10 สาย Fax: 02-539-1113</b>
+ <span style="color: #808080; font-weight: bold;">เวลาทำการ จันทร์ - ศุกร์  8.30-17.00 น. เสาร์  8.30-15.30 น. หยุดวันอาทิตย์</span></p>
+ </td>
+</tr>
+<tr>
+<td colspan="3" align="center"><img src="https://www.ptt.co.th/assets/images/footer_bank.jpg" align="absmiddle" /></td>
+</tr>
+</table>
+</div>
+
+
+</div>
+
+</body>
+</html>
+
+############################################################################
+
