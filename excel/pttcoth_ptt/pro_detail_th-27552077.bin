@@ -1,0 +1,50 @@
+<p>
+	 </p>
+<table border="0" style="text-align: left; widows: 2; text-transform: none; text-indent: 0px; width: 468px; font: 16px/18px Arial; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(119,119,119); margin-left: 30px; word-spacing: 0px; font-size-adjust: none; font-stretch: normal; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+	<tbody>
+		<tr>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<strong>FXS Ports</strong></td>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<span style="text-align: left; widows: 2; text-transform: none; text-indent: 0px; display: inline !important; font: 16px/18px Arial; white-space: normal; orphans: 2; float: none; letter-spacing: normal; color: rgb(119,119,119); word-spacing: 0px; font-size-adjust: none; font-stretch: normal; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">8FXS (GXW4008)</span></td>
+		</tr>
+		<tr>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<strong>Ethernet Ports</strong></td>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				2 RJ45 10/100Mbps (LAN/WAN)</td>
+		</tr>
+		<tr>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<strong>PSTN Line Port</strong></td>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				1 RJ11, for Fail-Over PSTN</td>
+		</tr>
+		<tr>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<strong>Voice Codecs</strong></td>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				G.711 (a/µ law), G.723, G.726, G.729a/b/e, iLBC, and T.38 compliant</td>
+		</tr>
+		<tr>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<strong>Configuration</strong></td>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				Web based, and remote TFTP/HTTP</td>
+		</tr>
+		<tr>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<strong>Power Input</strong></td>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				12 Vdc, 1.25Amp</td>
+		</tr>
+		<tr>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				<strong>Compliance</strong></td>
+			<td style="padding-bottom: 0px; padding-left: 0px; padding-right: 10px; vertical-align: top; padding-top: 20px">
+				FCC, CE</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://www.grandstream.com/products/gxw_series/gxw400x/marketing/gxw400x_brochure_english.pdf" target="_blank">รายละเอียดเพิ่มเติม</a></p>

@@ -1,0 +1,85 @@
+<ul style="outline: none; list-style-image: url(http://www.panasonic.com/business/psna/images/content/gray-square.gif); margin-bottom: 0px; margin-left: 15px; margin-top: 0px; padding-left: 0px; padding-bottom: 10px; color: rgb(76, 76, 76); font-family: Arial, Helvetica, Verdana, sans-serif; line-height: 18px;">
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max CO Lines:</strong> 128</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Analog CO's:</strong> 128</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max VoIP (H.323) trunks:</strong> 32</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max VoIP (SIP) trunks:</strong> 64</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Total Extensions: </strong>256</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Analog Proprietary Extensions:</strong> 64</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Single Line Telephones : </strong>128</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Digital Proprietary extensions:</strong> 256 (DT300, T7600 series)</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max IP Proprietary Phone extensions: </strong>192</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max SIP extensions: </strong>128</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Multi-Cell Wireless Compatible: </strong>Yes</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Maximum Cell Stations (Antennas):</strong> 32</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Maximum Portable Handsets: </strong>128</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Direct Station Select (DSS) Consoles: </strong>8</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Dimensions (H x W x D):</strong> 17<sup style="outline: none;">1</sup>/<sub style="outline: none;">4</sub>'' x 16<sup style="outline: none;">3</sup>/<sub style="outline: none;">4</sub>'' x 10<sup style="outline: none;">7</sup>/<sub style="outline: none;">8</sub>''</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Weight: </strong>35.2</span><br />
+		<br />
+		<p>
+			<span style="color:#000080;"><span style="font-size: 16px;"><u><strong>คุณสมบัติพิเศษของระบบ</strong></u></span></span></p>
+		<p>
+			<span style="font-size:14px;">1.ขนาด 992 Port (สายนอก + สายใน )<br />
+			2. รองรับ Voip Trunk ระบบสามารถที่จะเชื่อมต่อกับ Server Gateway กับผู้ให้บริการ Voip เช่น Skype เพื่อให้สามารถโทรผ่าน<br />
+			เครือข่าย Free (Internet) ซึ่งจะทำให้การ โทรออกไปยังต่างประเทศนั้นมีราคาถูกมากกว่าการโทรผ่านช่องทาง Local Trunk<br />
+			ที่มีอยู่เดิม<br />
+			3. รองรับระบบตอบรับอัตโนมัติ ( DISA) สามารถบันทึกเสียงตอบรับ เช่น “ บริษัทออโตเมชั่นเซอร์วิสจำกัดสวัสดีคะ กรุณากดหมาย<br />
+			เลขภายในที่ท่านทราบหรื่อกด ‘0’ เพื่อติดต่อ Operator” ลูกค้าที่โทรเข้ามาและรู้เบอร์ภายในก็สามารถกดเบอร์เรียกไปยังเบอร์ที่ต้อง<br />
+			การได้โดยไม่ต้องมีคนโอนสายให้<br />
+			4. รองรับการเชื่อมต่อหลายสาขาเข้าด้วยกันในกรณีที่คุณมี Leased Line เชื่อมต่อระหว่างสาขาอยุ่แล้วก็สามารถเชื่อมต่อระบบตู้ทั้ง<br />
+			สองสาขาเข้าเป็ระบบเดียวกัน ซึ่งจะทำให้การโทรคุยกันระหว่างสาขาไม่มีค่าใช้จ่าย อีกทั้งยังสามารถโอนสายของลูกค้าระหว่างสาขา<br />
+			ได้ทำให้เกิดความพึงพอใจกับลูกค้า ด้วยเทคโนโลยี่ Q-Sig Protocol ซึ่งเป็น Protocol มาตรฐาน จึงทำให้การเชื่อมต่อเป็นเรื่องง่าย<br />
+			สามารถเชื่อมต่อระบบเข้ด้วยกันทั้ง E&M, ISDN, Voip เป็นต้น<br />
+			5. ศูนย์บริการสามารถแก้ไขโปรแกรมทางไกลด้วยระบบ Remote Maintenance จะทำให้การปรับเปลี่ยน แก้ไขโปรแกรมทำได้รวดเร็ว<br />
+			6. มีระบบ Charge Battery และ Power Backup ในตัวเพียงแค่คุณเพิ่ม Battery ก็สามารถสำรองไฟในการทำงานเมื่อไฟดับโดย<br />
+			ไม่ต้องซื้อ UPS เพิ่ม<br />
+			7. รองรับระบบ Voip ซึ่งเป็นระบบที่สามารถส่งสัญญาณเสียงไปบน Data Network ได้ จะทำให้การสื่อสารเป็นเรื่องง่ายโดยใช้ LAN เ<br />
+			พียงเส้นเดียวก็สามารถรองรับการสื่อสารทั้งเสียงและData Computer<br />
+			8. รองรับระบบการสื่อสารไร้สาย ไร้ขีดจำกัด อิสระในการสื่อสารด้วยเทคโนโลยี Cell Station ที่ทำงานเหมือนโครงข่ายโทรศัพท์มือถือ<br />
+			ทำให้คุณสามารถออกแบบระบบให้ครอบคลุมตามพื้นที่การใช้งานจริงได้  เสียงที่ชัดเจนสดใสไร้สัญญาณรบกวนด้วยเทคโนโลยี 2.4 GHz<br />
+			9. สามารถแบ่งทรัพยากรของตู้ (สายนอก,สายใน, เสียงของระบบตอบรับ) และแยก Function การใช้งานออกได้สูงสุด 8 บริษัท ในกรณี<br />
+			ที่บริษัทแม่และบริษัทในเครือใช้ตู้สาขาเดียวกัน<br />
+			10. รองรับการติดตั้งระบบตอบรับอัตโนมัติและโอนสายอัตโนมัติในตัว ช่องสัญญาณรับสายเลือกได้ 4, 8 และ12 วงจรเพื่อให้เหมาะสมตาม<br />
+			จำนวนสายนอก<br />
+			11.Caller ID Detection & Transmission to SLT สามารถแสดงหมายเลขโทรเข้าได้ทั้งเครื่องดิจิตอลและเครื่องธรรมดาชนิด caller ID<br />
+			รวมทั้งการโอนสายนอกต่อๆกันไปก็สามารถโชว์เบอร์ได้ (อุปกรณ์เสริม)<br />
+			12.แยกระดับการล็อกโทรออกของสายในได้ 64 ระดับ<br />
+			13.มีฟังก์ชั่นให้กดรหัสก่อนโทรออกตั้งได้ 1,000 รหัส<br />
+			14.บันทึกหมายเลขสำหรับโทรออกของแต่ละเครื่อง 10 หมายเลข<br />
+			15.บันทึกหมายเลขสำหรับโทรออกส่วนกลาง 1,000 หมายเลข<br />
+			16.จำนวนหลักหมายเลขภายในที่กำหนดได้ 1 - 4 หลัก<br />
+			17.จำนวนข้อมูลการใช้โทรศัพท์ที่เก็บได้ (SMDR) 200 ครั้ง<br />
+			18. มีฟังก์ชั่น UCD : Uniform Call Distribution) เป็นฟังก์ชั่นแบ่งการโทรเข้าของสายนอกให้พนักงานรับสายเท่าๆกัน<br />
+			19. มีฟังก์ชั่น Call Forwarding เป็นฟังก์ชั่นการโอนสายอัตโนมัติไปยังเบอร์ภายในอื่นหรือโอนเข้ามือถือในกรณีที่ไม่อยู่ที่โต๊ะ<br />
+			20. แยกช่วงเวลาของตู้สาขาได้ 3 ช่วงเวลา ช่วงเวลาทำงาน, ช่วงพักเที่ยง และช่วงเลิกงาน ทำให้สามารถแยกฟั่งก์ชั่นการทำงานของตู้<br />
+			สาขาตามช่วงเวลาได้เช่นกำหนดให้พนักงานโทรออกได้เฉพาะช่วงเวลาทำงาน ซึ่งจะสามารถลดค่าโทรศัพท์ทีไม่จำเป็นได้<br />
+			21. รองรับ Option Doorphone สำหรับติดหน้าประตูเพื่อให้เกิดความสะดวกมากกว่าเสียงออดธรรมดาเพราะสามารถพูดคุยกับผู้มาติดต่อได้<br />
+			22. สามารถเพิ่ม Option Door Openers เพื่อต่อระบบตู้สาขาร่วมกับระบบ Access Control สามารถสั่งเปิดประตูจากเครื่องโทรศัพท์ได้</span></p>
+		<p style="text-align: center;">
+			<span style="color:#000080;"><span style="font-size: 16px;"><u><strong>แผนผังการเชื่อมต่อระบบ</strong></u></span></span></p>
+		<p style="text-align: center;">
+			<img alt="" src="/assets/images/images_finder/images/diagram2.jpg" style="width: 620px; height: 322px;" /></p>
+		<p style="text-align: center;">
+			<img alt="" src="/assets/images/images_finder/images/option-tel.jpg" /></p>
+	</li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<p style="text-align: center;">
+			<span style="font-size:14px;"><strong>รายละเอียดเพิ่มเติม/ติดต่อสอบถาม โทร:</strong><span style="font-size:12px;"><b style="color: #a00;font-size:20px;">02-933-9301</b></span>(auto 10 สาย) </span></p>
+	</li>
+</ul>

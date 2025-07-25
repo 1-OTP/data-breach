@@ -1,0 +1,238 @@
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif; text-align: center;">
+	<span style="font-size:24px;"><strong><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em; font-weight: bold;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em;">NEC UNIVERGE® SV9100</span></span></strong></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	 </p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif; text-align: center;">
+	 </p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	<span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em; font-weight: bold;">1.คุณสมบัติทางด้านเทคนิคของ ระบบโทรศัพท์</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ชุดควบคุมของ PABX (System Control) ประกอบด้วย Micro Processor 32 bit และเป็นแบบ SPC มีหน่วยความจำหลัก (Main Memory) และหน่วยความจำสำรอง (Back Up memory) เป็นชนิด Flash ROM</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ข้อมูลที่ถาวร หรือกึ่งถาวรของระบบ เช่น โปรแกรมคำสั่งการทำงานของระบบหรือข้อมูลต่าง ๆ เกี่ยวกับเลขหมายโทรศัพท์ เป็นต้น จะต้องมีการป้องกันการสูญหายของข้อมูล ซึ่งอาจเกิดขึ้นได้ในกรณีไฟฟ้าดับ โดยระบบจะต้องสามารถอ่านข้อมูลจากหน่วยความจำสำรองและทำงานได้ทันที หลังจากที่มีไฟฟ้าจ่ายให้ระบบซึ้งอุปกรณ์หน่วยความจำจะใช้เป็นแบบ SD card</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบเป็นแบบ Modularity ในลักษณะของ Universal Port กล่าวคือ สามารถขยายระบบโดยการเพิ่มแผงวงจรเข้าไปในระบบ โดยไม่จำเป็นต้องเปลี่ยนโครงสร้างหลักของระบบ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ตู้สาขาโทรศัพท์สามารถต่อกับเครื่องโทรศัพท์ได้ทั้งแบบระบบ Decades Pulse และ DTMF ระบบที่เสนอจะต้องเป็นระบบดิจิตอล แบบ TDM / IP Time Division Switch (Non-Blocking) สามารถสนทนาได้พร้อมกันไม่จำกัดจำนวนคู่สาย พร้อมทั้งเป็นระบบ Internet Protocol</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบโทรศัพท์ สามารถเชื่อมต่อกับระบบ ISDN ของ บริษัท ทศท. จำกัด (มหาชน) ได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบโทรศัพท์ สามารถเชื่อมต่อกับระบบ CO Line ที่ผ่านการรับรองจาก บริษัท ทศท จำกัด (มหาชน)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบโทรศัพท์ สามารถเชื่อมต่อกับระบบที่เป็นสายนอก IP ของผู้ใช้บริการได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ตู้สาขาโทรศัพท์อยู่หลายๆ สาขา สามารถเชื่อมโยงระบบเข้าด้วยกันเสมือนเป็นระบบเดียวกัน โดยเมื่อเวลาแก้ไขโปรแกรมสามารถแก้ไขได้จากจุด ๆ เดียว และสามารถใช้งาน Feature ต่าง ๆ ของโทรศัพท์ได้ แม้ว่าเลขหมายภายในนั้นจะอยู่ต่างตู้สาขาโทรศัพท์กัน รวมทั้งสามารถดูรายงานการใช้งานโทรศัพท์ของตู้สาขาโทรศัพท์ทั้งหมดภายในโครงข่ายได้ จากจุดๆ เดียว โดยสามารถ multilinkได้ถึง 50 ระบบ เสมือนระบบเดียวกัน</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- สามารถเชื่อมต่อกับระบบเพื่อเปลี่ยนแปลงและแก้ไขข้อมูลของระบบ (I/O Maintenance) ได้ผ่านทาง Modem และ IP Network ได้โดย มี Modem build in CPU (สำหรับการเข้าโปรแกรมจากทางไกล)remote</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ในระบบมี Modem แบบ Built-in ภายในตู้สาขาโทรศัพท์เพื่อทำการตรวจเช็คระบบหรือแก้ไขโปรแกรมบางอย่างจากทางไกลได้ (Remote Maintenance) โดยผ่านคู่สายของบริษัท ทศท จำกัด (มหาชน)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- รองรับ IP Telephone โดยทำงานแบบ Peer To Peer ได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- สามารถเชื่อมโยงเข้าด้วยกันผ่านโครงข่ายข้อมูลคอมพิวเตอร์ (VoIP) โดยที่สามารถบีบอัดสัญญาณเสียงได้ตามมาตรฐาน G.711 และ G.729, G.722, G726,</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบสามารถแสดงผลรายงานความผิดพลาด (Alarm Indication) ซึ่งจะถูกใช้เพื่อระบุปัญหาที่เกิดขึ้นกับระบบได้ โดยสามารถแสดงผลผ่านทางเครื่องโทรศัพท์ดิจิตอล, หรือ Download ไปยัง PC Pro รวมทั้งสามารถส่งข้อมูลความผิดพลาดไปยัง E-mail ได้ผ่าน software</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบรองรับการทำงานแบบ IP DECT บนความถี่ 1900-1906 MHz ตามมาตรฐานคณะกรรมการกระจายเสียง (กสทช.)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบรองรับการทำงานประชุมสายแบบวิดีโอโดยมี MCU ในตัวบนCPUของตู้สาขาโทรศัพท์ประชุมสูงสุด 4 party/Group</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบรองรับการทำงานร่วมกับ smart phone เสมือนว่าเป็นเบอร์ภายในได้ software mobility</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบรองรับการทำงานแบบ UC โดยสามารถให้เครื่องคอมพิวเตอร์หรือ smart phone เสมือนเบอร์ภายใน</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบสามารถทำงานได้ดีในช่วงอุณหภูมิ 0-40 องศาเซลเซียส ที่ความชื้นสัมพันธ์ไม่เกิน 90%<br style="box-sizing: border-box; line-height: 1.4em;" />
+	 </p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	<span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em; font-weight: bold;">2. SYSTEM CONFIGURATION โครงสร้างของระบบ SV9100</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Chassis (ขนาด 2U) ตู้สามารถขยายโครงตู้ได้ถึง 4 Chassis ต่อ 1 Node ทำงานด้วยระบบ Digital ควบคุมการทำงานด้วยแผง CD-CP10 ซึ่งมีระบบสำรองข้อมูลด้วย Ram Memory โดยมี Lithium Battery จะสำรองข้อมูลไว้ให้ถ้าไฟดับ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Chassis (ขนาด 9.5 inch) ตู้สามารถขยายตู้ได้ถึง 4 Chassis ต่อ 1 Node สามารถติดตั้งแบบแขวนผนังและแบบตั้งพื้น ทำงานด้วยระบบ Digital ควบคุมการทำงานด้วยแผง GCD-CP10 ซึ่งมีระบบสำรองข้อมูลด้วย Ram Memory โดยมี Lithium Battery จะสำรองข้อมูลไว้ให้ถ้าไฟดับ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- ระบบสามารถตั้งโปรแกรมได้จากเครื่องโทรศัพท์ชนิด (Digital Display Telephone), คอมพิวเตอร์ (PC/Notebook) หรือการโปรแกรมระยะไกลผ่านทางสายนอก (Remote Maintenance) เชื่อมผ่านเวปเบราวซ์เซอร์ (Web Pro) หรือโปรแกรม (PC Pro)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- All Universal Slots ใส่แผงอิสระได้ทุกช่อง SV9100 มีช่องใส่แผงวงจรต่าง ๆ ซึ่งเลือกใส่ได้อิสระทุกช่อง (ยกเว้นแผงวงจร GCD-CP10) ตามขนาดของจำนวนตู้ที่มีดังนี้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	2.1 Total Trunk port 400 สายนอก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Analog Trunks (Co/PABX Line) จำนวนสายนอกสูงสุด 400 สายนอก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Analog Trunks (E&M Line) จำนวนสายนอกสูงสุด 200 สายนอก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Digital Trunk (ISDN: PRI) จำนวนสายนอกสูงสุด 192 สายนอก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- VoIP Trunk จำนวนสายนอกสูงสุด 400 สายนอก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีวงจรตอบรับอัตโนมัติมาให้บน CPU 2 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	2.2 Total Extension port</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Digital Telephone จำนวนเครื่องโทรศัพท์แบบดิจิตอลมีได้สูงสุด 896 เครื่อง</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Analog Telephone จำนวนเครื่องโทรศัพท์อนาล็อคมีได้สูงสุด 896 เครื่อง</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- IP Phone / IP DECT จำนวนเครื่องขยายสูงสุด 896 เครื่อง</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- DSS Console จำนวนเครื่องคู่โอเปอเรเตอร์มีได้สูงสุด 32 เครื่อง</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Door phone/Door lock จำนวนเครื่องควบคุมหน้าประตูมีได้สูงสุด 8 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- External Paging จำนวนเครื่องลำโพงประกาศตอนนอกมีได้สูงสุด 8 ชุด</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Visual Extension จำนวนเบอร์ภายในเสมือนได้สูงสุด 512 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	2.3 DTD/DTMF Circuits จำนวนรับ / ส่งสัญญาณ DTMF มีได้สูงสุด 64 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	<span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em; color: rgb(255, 0, 0);">หมายเหตุ: จำนวนสูงสุดของอุปกรณ์ประเภทต่างๆ ที่ระบุไว้เปลี่ยนแปลงตามจำนวนแผงวงจรที่ ติดตั้งไว้ในระบบ</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	2.4 Environmental Specifications ข้อจำกัดของอุปกรณ์ที่ติดตั้ง</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	-โครงตู้ แผงวงจรและอุปกรณ์ปลายทางต่างๆ ทำงานอยู่ที่อุณหภูมิระหว่าง 0 ถึง 40 องศาเซลเซียส ความชื้นสัมพัทธ์ อยู่ระหว่าง 10%-90%RH</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	-แหล่งจ่ายไฟฟ้า Power Supply อุณหภูมิอยู่ระหว่าง 0 ถึง 40 องศาเซลเซียสความชื้นสัมพัทธ์ อยู่ระหว่าง 20% ถึง 95% RH</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	-GCD-CP10 เป็นแผงควบคุมการทำงานหลักของทั้งระบบเก็บข้อมูลสำรองด้วยระบบ RAM และมีหน่วยความจำในการควบคุมการทำงานทั้งหมดเป็น</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	หน่วยสำรองซึ่งรักษาไว้ด้วย Lithium Batteryนอกจากนั้นในแผงวงจร GCD-CP10 ยังมีคุณลักษณะเพิ่มเติมอื่นๆ ดังนี้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีวงจร LAN PORT 2 Port /USB 1 Port /Mini USB 1 port</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีวงจรเพื่อต่อสัญญาณ AUX 2 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีวงจรรีเลย์เอนกประสงค์ 2 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีวงจรเพื่อต่อระบบประกาศลำโพง 1 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีสวิทซ์สำหรับ Reset ระบบการทำงาน 1 สวิทซ์</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีไฟ LED แสดงสถานะของระบบ 8 LED</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีแหล่งวงจรประชุมสายนอกสาย 64 วงจร (สูงสุด 32 คน/กลุ่ม)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีระบบโชว์เบอร์สายนอก 64 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- มีระบบตอบรับอัตโนมัติ (AUTOMATED ATTENDANT) อัตโนมัติ Voice Response System: Max 16 วงจร (SD card)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- CD-PRTA เป็นแผงวงจรสำหรับเลขหมายภายนอกแบบดิจิตอลชนิด PRI รองรับการเชื่อมต่อทั้งแบบ T / S-point มีไฟโชว์สถานะการใช้งานที่หน้าแผงวงจร เดินสายไฟเชื่อมต่อไปยังปลายทางโดยใช้ RJ-45 Connector</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	-GPZ-IPLE เป็นแผงวงจรสำหรับการเชื่อมต่อแบบ Voice over IP (256 CH) รองรับมาตรฐาน (Protocol) H.323 และ SIP มีพอร์ต Ethernet (10/100/1000M) สำหรับ RTP/RTCP packets</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- SD-A1/B1 เป็น SD card ใช้สำหรับ VRS (Voice Response System) และ/หรือคุณสมบัติต่างๆ ของVoice Mail ใช้ ซึ่ง</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- SD-A1/B1 เป็นหน่วยความจำของระบบตอบรับอัตโนมัติ Voice Response System: Max 16 วงจร (SD card)<br style="box-sizing: border-box; line-height: 1.4em;" />
+	 </p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	<span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em; font-weight: bold;">3. คุณลักษณะเลขหมายภายใน (Extension Feature)</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Toll Restriction Class สามารถจัดแบ่งกลุ่มหรือระดับสำหรับเลขหมายภายใน ให้จำกัดความสามารถในการโทรออกไปภายนอก ได้สูงสุด 15 ระดับ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Abbreviated Dialing สามารถบันทึกเลขหมายโทรศัพท์แบบย่อส่วนรวม ที่ใช้ร่วมกันทั้งระบบได้ 2,000 เลขหมาย</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Group Abbreviated สามารถบันทึกเลขหมายโทรศัพท์แบบย่อเฉพาะกลุ่ม และแบ่งได้เป็น 64 กลุ่ม</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Account Code การใส่รหัสพิเศษในการใช้สายนอกเพื่อต้องการแสดงค่าใช้จ่ายในการใช้โทรศัพท์ของแต่ละเลขหมายภายใน ซึ่งจะแสดงผลออกมาทางเครื่องพิมพ์ หรือคอมพิวเตอร์ (SMDR) ซึ่งมีวิธีอยู่ 2 ประเภท คือOptional Account Code สามารถใส่เลขรหัสเมื่อใช้สายนอก (ไม่บังคับ) และ Force Account Code จะต้องใส่เลขรหัสทุกครั้งก่อนจะโทรออกสายนอก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Alarm Clock การตั้งเวลาปลุกเตือนในระบบตั้งเวลาได้ 2 ประเภท คือ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Alarm Clock 1 จะปลุกเตือนเมื่อถึงเวลาแล้วยกเลิกไป เช่น เตือนเมื่อถึงเวลาที่กำหนด</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Alarm Clock 2 จะปลุกเตือนเมื่อถึงเวลาที่กำหนดไว้ทุกวัน</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Alphanumeric Display การแสดงข้อความบนจอเครื่องโทรศัพท์ดิจิตอลแบบมีจอต้องแสดงข้อความได้ 3 บรรทัด</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Automatic Call Distribution (ACD) สามารถตั้งระบบการรับสายของเลขหมายภายในได้แบบหมุนวนไม่ซ้ำเลขหมายเดิมเพื่อใช้ทำงานร่วมกับระบบ Call Center ตั้งได้สูงสุด 64 กลุ่มและสามารถต่อร่วมกับ ACD MIS ได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Background Music สามารถต่อกับเครื่องเสียงและให้เสียงดนตรีออกทางลำโพงของเครื่องโทรศัพท์แบบดิจิตอลและระบบประกาศลำโพงได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Break-In การแทรกสาย สามารถกำหนดให้เลขหมายภายในแต่ละเครื่องสามารถแทรกสายเลขหมายภายในเครื่องอื่นที่กำลังใช้สายได้ในขณะเดียวกันก็สามารถกำหนดให้เลขหมายภายในบางเครื่องไม่ให้แทรกสายและถูกแทรกสายได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Caller ID ระบบการแสดงเลขหมายเรียกเข้าได้ทั้งเลขหมายภายในและภายนอกได้พร้อมกัน 64 วงจรเครื่องโทรศัพท์แบบดิจิตอลมีจอและเครื่องโทรศัพท์แบบอนาล็อกที่รองรับการแสดงเลขหมาย</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Call forwarding การฝากสายให้เลขหมายอื่นรับสายแทน สามารถกำหนดให้เลขหมายภายในฝากให้เลขหมายอื่นรับสายแทนได้ตามเงื่อนไข</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Call Pickup การรับสายแทนเลขหมายที่ถูกเรียก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Call Duration Timer การแสดงระยะเวลาที่ใช้สายสำหรับเครื่องโทรศัพท์แบบดิจิตอล</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Camp on/Call back การจองสายและให้เรียกกลับเมื่อเลขหมายภายในที่ต้องการ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Call waiting การจองสายโดยถือสายคอยอยู่ เลขหมายภายในที่เรียกไปยังเลขหมายที่ใช้สายอยู่สามารถจองสายและถือสายคอยไว้ โดยปลายทางจะได้รับเสียงสัญญาณเตือน เพื่อให้ทราบว่ามีสายซ้อน</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Conference การประชุมสาย ได้สูงสุด 64 เลขหมาย โดยทำเป็นกลุ่มได้สูงสุด 32 คน/กลุ่มโดยไม่จำกัดสายนอก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Continued Dialing การส่งสัญญาณ Tone ออกไปหลังจากที่ปลายทางรับสายแล้ว ระบบสามารถส่งสัญญาณ Tone (DTMF) ออกไปได้อย่างต่อเนื่องแล้วไม่ว่าจะเป็นการเรียกไปยังเลขหมายภายนอกหรือเลขหมายภายใน จุดประสงค์ที่ใช้เช่น Page Call, Credit Scanner, Auto Attendant, Voice Mail System, DID Trunk, DISA Trunk เป็นต้น</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Department Group Calling (Hunting Group) สามารถโปรแกรมการรับสายในกลุ่มได้มีสายเข้ามาจะต้องตรวจสอบหาเลขหมายภายในกลุ่มที่ว่างอยู่ได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Dial Block การปิด/เปิด โดยใช้รหัสพิเศษ เลขหมายภายในสามารถกำหนดรหัสลับ ล็อก เครื่องโทรศัพท์ได้เพื่อป้องกันมิให้ผู้อื่นใช้โทรศัพท์เครื่องนั้นๆ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	<span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em; color: rgb(255, 0, 0);">หมายเหตุ: ถ้าหากลืมรหัสลับจะต้องใช้รหัสของ Supervisor</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Dial Number Preview แสดงเลขหมายก่อนจะโทรออก สำหรับเครื่องโทรศัพท์แบบมีจอสามารถที่จะตรวจสอบเลขหมายที่ต้องการโทรออกได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Direct Inward Line สามารถกำหนดให้เลขหมายภายในรับสายโดยตรงเมื่อมีการเรียกเข้าที่สายนอกที่เรากำหนดไว้ได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Direct Inward Dial (DID) การกำหนดเลขหมายภายในให้กับเลขหมายภายนอกสามารถเรียกภายในเจาะจงได้ สามารถกำหนดให้เป็นสายที่คนภายนอกเรียกเครื่องภายในเจาะจงได้โดยตรงโดยไม่ผ่านโอเปอเรเตอร์ไม่ผ่านระบบตอบรับ หรือใช้เบอร์สายในเหมือนกันกับเบอร์สายนอก4หลักหลังได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Direct Inward System Access (DISA) เมื่อมีการโทรเข้าจะต้องใช้รหัสผ่าน แล้วจะเรียกหมายเลขภายในที่ต้องการโดยเจาะจง หรือใช้สายนอกในระบบเพื่อโทรออกก็ได้โดยไม่ต้องผ่านโอเปอเรเตอร์ และไม่ผ่านระบบตอบรับอัตโนมัติ,</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Force Trunk Disconnect การตัดสาย สามารถกำหนดให้เลขหมายภายในบางเครื่องตัดสายนอกที่กำลังใช้งานอยู่ หรือสายที่ใช้แล้ววางหูไม่สนิทได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Headset Operation รองรับการใช้ Headset</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Hotline เรียกไปยังเลขหมายภายในที่กำหนดโดยตรงเมื่อยกหู กำหนดได้สูงสุด 896 เลขหมายภายใน</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Intercom Abandoned Call Display แสดงเลขหมายภายในที่ไม่ได้รับสาย</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Long Conversation Cut-off การตัดสายเมื่อถึงเวลาที่กำหนดไว้ สามารถกำหนดให้เครื่องภายในห้ามใช้สายนอกนานเกินเวลาที่กำหนด และจะมีเสียงเตือนก่อนที่จะมีการตัดสาย ซึ่งสามารถกำหนดให้ตัดเฉพาะสายโทรเข้า โทรออก หรือทั้งโทรเข้าและโทรออก</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Long Conversation Warning Tone มีเสียงเตือนเมื่อใช้สายนาน เครื่องโทรศัพท์เลขหมายภายในที่ใช้สายนอกนาน เมื่อถึงเวลาที่กำหนดไว้ จะมีเสียงสัญญาณเตือนระหว่างการสนทนา เป็นระยะตามช่วงเวลาที่กำหนดไว้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Paging/Meet Me paging ประกาศออกลำโพง และให้ติดต่อกลับ เครื่องโทรศัพท์เลขหมายภายในที่ประกาศลำโพง เพื่อตามหาบุคคล โดยผู้ถูกตามตัวจะติดต่อกลับมาหาคนที่ประกาศได้จากเครื่องภายในจุดใดๆ ได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Meet Me Paging Conference การประชุมสายหลังจากที่ได้ประกาศออกลำโพง สามารถใช้เครื่องโทรศัพท์เลขหมายภายในประกาศลำโพงเพื่อตามหาบุคคล โดยต้องการให้ผู้ถูกตามตัวทุกคนประชุมร่วมกัน (สูงสุดได้ 6 คน)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Music on Hold เสียงดนตรีพักสาย มีเสียงดนตรีขณะพักสายทั้งเลขหมายภายในและภายนอกระบบ</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Memo Dial การบันทึกเลขหมายการโทรออกเพื่อใช้ต่อไปในอนาคต</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Message waiting หารส่งสัญญาณแจ้งเตือนให้เลขหมายภายในที่ถูกเรียกโทรกลับ โดยใช้ไฟกระพริบMW เครื่องโทรศัพท์แบบดิจิตอลทุกเครื่องมีไฟกระพริบ MW เพื่อประโยชน์ในขณะที่ไม่อยู่ หรือกำลังใช้สายอยู่ผู้ที่เรียกเข้ามาสามารถส่งสัญญาณไฟกระพริบและถ้าเป็นเครื่องโทรศัพท์ดิจิตอลชนิดมีจอแสดงผลจะมีข้อความปรากฏบนจอว่าให้ติดต่อหาใคร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Name storing สามารถบันทึกชื่อและแสดงผลผ่านจอแสดงผลของเครื่องโทรศัพท์แบบดิจิตอลได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Night/Day/Resting Service การเปลี่ยนโหมดการทำงานตามช่วงเวลาที่ต้องการ สามารถเปลี่ยนระบบการทำงานของโทรศัพท์ทั้งระบบได้ 2 วิธี คือ เปลี่ยนโหมดการทำงานตามเวลาโดยอัตโนมัติ หรือเปลี่ยนโหมดการทำงานได้โดยการตั้งรหัสที่เครื่องโทรศัพท์เลขหมายภายในช่วงเวลาในระบบกำหนดได้สูงสุด 8 ช่วงเวลา</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- One-Touch calling การทำงานโดยกดปุ่ม ครั้งเดียว เครื่องโทรศัพท์แบบดิจิตอล สามารถกำหนดปุ่มให้ทำงานในลักษณะ One-Touch Button ได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Override (Off Hook Signaling) เสียงสัญญาณแทรกสาย เมื่อมีสายซ้อนสายภายในที่ถูกเรียกจะได้ยินเสียงสัญญาณแทรกเข้ามาระหว่างการสนทนา</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Park Hold พักสายที่เรียกเข้า สามารถพักสายที่เรียกเข้าไว้ในระบบได้ 64 วงจร</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Programmable Function Keys ปุ่มฟังก์ชั่นพิเศษสำหรับเครื่องโทรศัพท์แบบดิจิตอล สามารถกำหนดฟังก์ชั่นต่างๆ ของระบบ บนปุ่มฟังก์ชั่นพิเศษได้ อาทิ เช่น เป็นปุ่มเพื่อขอสายนอก ปุ่มโอนสาย ปุ่มเปลี่ยนโหมดการทำงาน</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Repeat Redial ให้เครื่องทวนหมายเลขซ้ำ 3 ครั้ง เครื่องโทรศัพท์เลขหมายภายในสามารถสั่งให้ทวนหมายเลขที่กำลังเรียกออกไปยังปลายทางที่ไม่ว่างให้ทำการเรียกใหม่ต่อเนื่องกัน 3 ครั้งโดยค่าเริ่มต้นในระบบจะให้ทวนการโทรออกในระยะเวลาห่างกัน 60 วินาที และคอยให้รับสาย 30 วินาทีจากนั้นจะเริ่มเรียกใหม่</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Ring Group กำหนดให้สัญญาณกระดิ่งเรียกเข้าจากภายนอกดังเป็นกลุ่ม สามารถตั้งกลุ่มให้กระดิ่งดังตามเลขหมายภายในที่ต้องการได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Room Monitor รับฟังเสียงบริเวณที่ต้องการ เครื่องโทรศัพท์แบบดิจิตอลทุกเครื่องสามารถที่จะทำให้เป็นเครื่องรับเสียงบริเวณนั้น และสามารถกำหนดให้เครื่องโทรศัพท์แบบดิจิตอลอีกเครื่องเป็นผู้ฟังเสียงของบริเวณที่รับมา หน้าที่การทำงานนี้เหมาะสมกับการฟังเสียงระหว่างห้องเด็กกับห้องพยาบาลเพื่อที่เด็กร้องขึ้นพยาบาลที่อยู่ในห้องก็จะได้ยินเสียงเด็กร้อง</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Remote Maintenance การแก้ไขโปรแกรมของระบบสามารถทำได้ผ่านระบบสายโทรศัพท์ โดยใช้การโปรแกรมด้วยระบบคอมพิวเตอร์</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Saved Number Redial บันทึกเลขหมายโทรศัพท์ที่โทรออก เครื่องโทรศัพท์เลขหมายภายในทุกเครื่องสามารถบันทึกเลขหมายโทรศัพท์ไว้เพื่อเรียกออกใหม่ใหม่ได้โดยที่จะไม่ไปลบความจำเลขหมาย ใน Last Number Dialing (LND ทวนหมายเลขหลังสุด และเปลี่ยนเลขหมายทุกครั้งที่มีการโทรใหม่)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Secretary Call (Buzzer) กดปุ่มเรียกไปยังเลขหมายภายในที่กำหนดไว้โดยตรง เครื่องโทรศัพท์แบบดิจิตอลสำหรับผู้จัดการสามารถตั้งปุ่มฟังก์ชั่นพิเศษ 1 ปุ่ม สำหรับเรียกเลขาโดยตรงเป็นเสียงกริ่งสัญญาณ (Buzzer) ไปดังที่เครื่องโทรศัพท์ของเลขาได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Secretary Call ให้เลขารับสายแทนผู้จัดการ เลขาสามารถรับสายแทนผู้จัดการขณะที่ผู้จัดการใช้สายอยู่หรือไม่อยู่ที่ห้อง ผู้ที่เรียกมาหา ผู้จัดการจะมาดังที่เครื่องเลขาทั้งหมด เลขาเท่านั้นที่สามารถเรียกเข้าหาผู้จัดการได้</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Selectable Ring Tone สามารถตั้งรูปแบบเสียงกระดิ่งเรียกเข้า เครื่องโทรศัพท์แบบดิจิตอลทุกเครื่องสามารถเปลี่ยนรูปแบบเสียงกระดิ่งเรียกเข้ามาดังที่เครื่องตามความต้องการ เพื่อสะดวกในการแยกว่าสายที่เรียกเข้าเป็นการเรียกเข้าจากเลขหมายภายนอกหรือเลขหมายภายใน</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Series Call เลขหมายภายนอกที่ถูกโอนไปยังเลขหมายภายในอื่น สามารถโอนกลับมายังเลขหมายภายในที่เป็นผู้โอนไปได้ เมื่อจบการสนทนา</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Station Message Detail recording การบันทึกข้อมูลการใช้โทรศัพท์ผ่านสายนอกของเลขหมายภายในสามารถบันทึกข้อมูลแล้วให้แสดงผลออกมาทาง LAN PORT ที่ต่อกับระบบคอมพิวเตอร์ ไปยังเครื่องพิมพ์ (Printer)</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Virtual Extension (Multiple Directory Number) ให้เครื่องโทรศัพท์เลขหมายภายในแบบดิจิตอลสามารถมีเลขหมายภายในได้หลายเลขหมาย โดยการกำหนดปุ่มฟังก์ชั่นพิเศษแทนเลขหมายภายใน 1 ปุ่ม ต่อ 1 หมายเลข</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	- Voice over IP ระบบสามารถต่อเชื่อมเข้ากับระบบ เครือข่าย ของคอมพิวเตอร์เพื่อเป็นโครงข่ายระหว่างสาขาได้หรือระบบ IP Network</p>
+<p style="box-sizing: border-box; margin: 0px 0px 7px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.4em; color: rgb(51, 51, 51); font-family: THSarabunNew, Helvetica, Arial, sans-serif;">
+	<span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; line-height: 1.4em; color: rgb(255, 0, 0);">หมายเหตุ: ฟ

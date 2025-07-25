@@ -1,0 +1,122 @@
+<p>
+	 </p>
+<table border="0" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td valign="top">
+				<strong>SIP Compliant and Protocols</strong></td>
+			<td>
+				SIP RFC3261, TCP/IP/UDP, RTP, HTTP/HTTPS, ARP/RARP, ICMP, DNS (A record, SRV, NAPTR), DHCP, PPPoE, TELNET, TFTP, NTP, STUN, SIMPLE, TR-069, 802.1x.</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Networking Interfaces</strong></td>
+			<td>
+				Dual switched 10/100Mbps ports, integrated PoE (GXP1405 only)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Graphical Display</strong></td>
+			<td>
+				128x40 graphical LCD display</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Feature Keys</strong></td>
+			<td>
+				2 line keys with dual-color LED and 2 SIP account, 3 XML programmable context sensitive soft keys, 5 navigation/menu/volume keys, 8 dedicated function keys for HOLD, TRANSFER, CONFERENCE, VOLUME, HEADSET, MUTE, SPEAKERPHONE, SEND/REDIAL</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Voice Codecs</strong></td>
+			<td>
+				Support for G.723.1, G.729A/B, G.711µ/a, G.726-32, G.722 (wide-band), iLBC, in-band and out-of-band DTMF (in audio, RFC2833, SIP INFO)</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Telephony Features</strong></td>
+			<td>
+				Hold, transfer, forward, 3-way conference, call park, pickup, shared-call-appearance (SCA)/bridged-line-appearance (BLA), downloadable phone book (XML, LDAP, up to 500 items), call waiting, call log (up to 200 records), off-hook auto dial, auto answer, click-to-dial, flexible dial plan, hot desking, personalized music ringtones, server redundancy and fail-over</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>HD Audio</strong></td>
+			<td>
+				Yes, HD handset with support for wideband audio</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Headset Jack</strong></td>
+			<td>
+				RJ9 headset jack</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Base Stand</strong></td>
+			<td>
+				Yes, 2 angle positions available</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Wall Mountable</strong></td>
+			<td>
+				Yes</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>QoS</strong></td>
+			<td>
+				Layer 2 (802.1Q, 802.1p) and Layer 3 (ToS, DiffServ, MPLS) QoS</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Security</strong></td>
+			<td>
+				User and administrator level passwords, MD5 and MD5-sess based authentication, AES encrypted configuration file, SRTP, TLS, 802.1x media access control</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Multi-language</strong></td>
+			<td>
+				English, German, Italian, French, Spanish, Portuguese, Russian, Croatian, simplified and traditional Chinese, Korean, Japanese and etc</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Upgrade/Provisioning</strong></td>
+			<td>
+				Firmware upgrade via TFTP/HTTP/HTTPS, mass provisioning using TR-069 or AES encrypted XML configuration file</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Power & Green Energy Efficiency</strong></td>
+			<td>
+				Universal power adapter included: Input: 100-240VAC 50-60Hz; Output: +5VDC, 800mA Integrated Power-over-Ethernet (802.3af,GXP1405 only) Max power consumption 2.5W (power adapter) or 3W (PoE)</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Physical</strong></td>
+			<td>
+				Unit dimension: 186mm (W) x 210mm (L) x 81mm (D) Unit weight: 0.7KG Package weight: 1.1KG (GXP1400), 1.0KG (GXP1405)</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Operating Temperature & Humidity</strong></td>
+			<td>
+				32-104oF/0-40oC, 10-90% (non-condensing)</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Package Content</strong></td>
+			<td>
+				GXP1400/1405 phone, handset with cord, base stand, universal power supply (GXP1400 only), network cable, quick start guide</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Compliance</strong></td>
+			<td>
+				FCC Part 15 (CFR 47) Class B EN55022 Class B, EN55024, EN61000-3-2, EN61000-3-3, EN 60950-1 AS/NZS CISPR 22 Class B, AS/NZS CISPR 24, RoHS UL 60950 (power adapter)</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://www.grandstream.com/products/gxp_series/gxp1400/marketing/gxp1400_brochure_english.pdf" target="_blank">Brochure Product</a></p>

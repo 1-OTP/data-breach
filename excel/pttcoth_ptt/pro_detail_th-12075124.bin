@@ -1,0 +1,92 @@
+<p>
+	 </p>
+<table border="0" style="font: 16px/18px Arial; width: 730px; text-align: left; color: rgb(119, 119, 119); text-transform: none; text-indent: 0px; letter-spacing: normal; margin-left: 30px; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-size-adjust: none; font-stretch: normal; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+	<tbody>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;" width="20%">
+				<strong>Network Ports</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;" width="80%">
+				Dual switched 10M/100M auto-sensing Ethernet ports with integrated PoE</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>LCD</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				4.3” digital TFT color LCD with 480x272 resolution</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Camera</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Tiltable mega pixel CMOS camera with privacy shutter</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Exterior</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Black ABS plastic, 2-angle stand, 18 function keys including 4 programmable soft keys, 5 navigation keys, Line, Message, Phone Book, Local View, Transfer, Hold, Conference, Dial/Send, and Speakerphone</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Auxiliary Ports</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				SD/MMC/SDHC, USB (2.0), stereo headset with microphone stereo audio output, TV CVBS output</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Virtual Lines</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				3 individual SIP accounts with “Line” switching button, plus support for the FREE IPVideoTalk</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Wall Mountable</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Yes</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Network Protocols</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				SIP RFC3261, TCP/UDP/IP, PPPoE, RTP/RTCP, SRTP, HTTP/HTTPS, ARP, ICMP, DNS, DHCP (client), NTP/SNTP, TFTP, Telnet, TLS, UPnP</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>QoS</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Layer 2 (IEEE 802.1Q/p VLAN tagging) and Layer 3 QoS (ToS, DiffServ, MPLS)</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Security Protection</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				SIPS/TLS/SRTP, AES</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>NAT Traversal</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Smart NAT traversal technology to allow truly zero-configuration plug-and-play. Support STUN, TURN, and UPnP</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Provisioning & Management</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Support TR-69 and Syslog for remote device automated provisioning and monitoring, configuration via LCD, Web browser, and AES encrypted configuration file, firmware upgrade via TFTP and HTTP/HTTPS</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Video Capabilities</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				H.264 baseline profile, H.263/H.263+ , WQVGA/CIF/QVGA/QCIF resolution configurable frame rate up to 30fps, configurable bit rate from 32kbps to 1Mbps. Anti-flickering, auto focus and auto exposure, PIP (Picture-in Picture), on-screen-display, audio mute, camera block, call log, video phone book. Configurable screen-saver pictures, still picture capture/store, visual voice message indicator</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Voice Codec</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				G.711 (PCMU/PCMA, Appendix I & II), G.722 (wideband), G.723.1, G.729AB, GSM-FR, G.726-32, L16-256</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://www.grandstream.com/products/gxv_series/gxv3140/marketing/gxv3140_brochure_english.pdf" target="_blank">รายละเอียดเพิ่มเติม</a></p>

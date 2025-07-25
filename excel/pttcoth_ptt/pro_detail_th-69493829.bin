@@ -1,0 +1,44 @@
+<p>
+	 </p>
+<table border="0" style="font: 16px/18px Arial; width: 730px; text-align: left; color: rgb(119, 119, 119); text-transform: none; text-indent: 0px; letter-spacing: normal; margin-left: 30px; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-size-adjust: none; font-stretch: normal; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+	<tbody>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;" width="20%">
+				<strong>SIP Compliant and Protocols</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;" width="80%">
+				Support SIP 2.0, TCP/IP/UDP, RTP/RTCP, HTTP/HTTPS, ARP/RARP, ICMP, DNS, DHCP (both client and server), PPPoE, TFTP, NTP, TLS(pending)</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Networking Interfaces</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Support dual 10M/100M auto-sensing Ethernet ports, 2 USB (2.0) host ports, 1 audio and 1 video output jack and headset jack</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Advanced Video</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Powerful video DSP with advanced adaptive jitter control and packet loss concealment technology to ensure superb audio and video quality</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Video Codec</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Support H.263 and advanced H.264 base line real-time video codec (at CIF or QVGA resolution and up to 30 frames/second) Anti-flickering, auto focus and auto exposure, zoom, PIP (Picture-in-Picture), audio mute and camera block (for privacy), still picture capture/store/send (VGA Resolution)</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Advanced Features</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Support popular telephony features including 3 line indicators, full-duplex hands free speakerphone, 3-way conference, voicemail, video/audio conference, transfer, mute, etc.</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Support device configuration via LCD, Web browser or central secure configuration file</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Yes</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://www.grandstream.com/products/gxv_series/gxv3000/marketing/gxv3000_brochure_english.pdf" target="_blank">รายละเอียดเพิ่มเติม</a></p>

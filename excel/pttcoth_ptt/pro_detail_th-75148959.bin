@@ -1,0 +1,50 @@
+<table border="0" cellpadding="0" cellspacing="0" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 16px;" width="100%">
+	<tbody>
+		<tr>
+			<td colspan="4">
+				<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">   The UCM6510 is an innovative IP PBX appliance for E1/T1/J1 networks that brings enterprise-grade Unified Communications and security protection to enterprises, small-to-medium businesses (SMBs), retail environments and residential settings in an easy-to-manage fashion. Powered by an advanced hardware platform and revolutionary software functionalities, the UCM6510 offers a breakthrough turnkey solution for converged voice, video, data, fax, security surveillance, and mobility applications out of the box without any extra license fees or recurring costs.</span><br />
+				<br />
+				<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">      Powered by an advanced hardware platform with robust system resources, the UCM6100 series offers a highly versatile, turnkey Unified Communication (UC) solution for converged voice, video, data, and mobility applications, including fax and video surveillance.</span></td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				 </td>
+		</tr>
+		<tr>
+			<td align="left" colspan="4">
+				<span class="style8" style="font-size: 17px; color: rgb(102, 102, 102);">Features</span></td>
+		</tr>
+		<tr>
+			<td align="left" colspan="4">
+				<ul>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">1GHz quad-core Cortex A9 application processor, large memory (1GB DDR3 RAM, 32GB Flash) and dedicated high performance multi-core DSP array for advanced voice processing</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">1 integrated T1/E1/J1 interface, 2 PSTN trunk FXO ports, 2 analog telephone/Fax FXS ports with lifeline capability in case of power outage and up to 50 SIP trunk accounts</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Data communication via T1/E1/J1 and data-voice combined communication via T1/E1/J1 with SS7 or PRI</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Hardware DSP based 128ms-tail-length carrier-grade line echo cancellation (LEC), hardware based caller ID/call progress tone and smart automated impendance matching for various countries</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Gigabit network port(s) with integrated PoE, USB, SD card; integrated NAT router with advanced QoS support</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Supports up to 2000 SIP endpoint registrations, up to 200 concurrent calls (up to 100 SRTP encrypted concurrent calls) and up to 64 simultaneous conference attendees</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Flexible dial plan, call routing, site peering, call recording (manual & automatic per SIP call & SIP trunk), control panel for endpoints, integrated NTP server & integrated LDAP contact directory</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Automated detection and provisioning of IP phones, video phones, ATAs, gateways, SIP cameras and other endpoints for easy deployment</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Strongest-possible security protection using SRTP, TLS and HTTPS with hardware encryption accelerator</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Strong defense against malicious attacks (Fail2ban, Whitelist, Blacklist, alerts, etc.)</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Redundant power supply, support for Hot Standby Clustering</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Automatic export of previous day’s data; periodically cleans up user data</span></li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	 </p>

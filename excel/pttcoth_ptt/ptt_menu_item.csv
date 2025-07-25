@@ -1,0 +1,62 @@
+item_id,menu_id,item_link,item_name,item_sort
+85,17,http://www.ptt.co.th/th/product/index.php?id=63,Finger Scan (เครื่องลงเวลาด้วยนิ้วมือ),5
+109,3,http://www.ptt.co.th/th/brand/index.php?id=38&cl_id=2,ตู้สาขา Yeastar,1
+110,18,http://www.ptt.co.th/th/product/index.php?id=10,ip phone,1
+87,21,http://www.ptt.co.th/th/search/index.php?search_cat=23,เครื่องพิมพ์อเนกประสงค์,1
+10,3,http://www.ptt.co.th/th/brand/index.php?id=1&cl_id=2,ตู้สาขา Panasonic,5
+83,17,http://www.ptt.co.th/th/product/index.php?id=32,Access Control,3
+81,17,http://www.ptt.co.th/th/product/index.php?id=20,Voice Logger,4
+82,17,http://www.ptt.co.th/th/product/index.php?id=47,Voice Recorder,2
+80,18,http://www.ptt.co.th/th/product/index.php?id=7,โทรศัพท์แบบเครื่องคีย์,2
+21,4,http://www.ptt.co.th/th/product/index.php?id=13,กล้องวงจรปิด Standard,5
+22,4,http://www.ptt.co.th/th/product/index.php?id=31,Accessories,6
+23,4,http://www.ptt.co.th/th/product/index.php?id=28,กล่องหุ้มกล้อง (Housing),7
+24,4,http://www.ptt.co.th/th/product/index.php?id=30,ขาตั้งกล้อง,8
+25,4,http://www.ptt.co.th/th/product/index.php?id=29,ตัวขยายสัญญาณ,9
+26,4,http://www.ptt.co.th/th/product/index.php?id=19,Lens,14
+37,9,http://www.ptt.co.th/th/logocheque/,Logocheque,1
+38,9,http://www.ptt.co.th/th/ETBill/,ET-Bill,3
+39,10,http://www.ptt.co.th/th/InternetApartment/index.php,อินเตอร์เน็ตอพาร์ทเม้นท์ Embedded,1
+45,9,http://www.ptt.co.th/th/BizCard/,USB Business Card,2
+46,5,http://www.ptt.co.th/th/PrisonVisitor/,ระบบเยี่ยมผู้ต้องขัง,1
+49,3,http://www.ptt.co.th/th/product/index.php?id=52,อุปกรณ์สำรองไฟ/อุปกรณ์กันฟ้า,10
+62,3,http://www.ptt.co.th/th/product/index.php?id=61,สายโทรศัพท์ Telephone Cable,9
+60,14,http://ptt.co.th/th/UtilitySystem/index.php,ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ ,1
+58,4,http://www.ptt.co.th/th/product/index.php?id=55,สายนำสัญญาณ,11
+57,4,http://www.ptt.co.th/th/product/index.php?id=56,Connector,13
+79,18,http://www.ptt.co.th/th/product/index.php?id=9,โทรศัพท์ตั้งโต๊ะ,3
+78,18,http://www.ptt.co.th/th/product/index.php?id=8,โทรศัพท์ไร้สาย,4
+77,18,http://www.ptt.co.th/th/product/index.php?id=33,Analog Telephone Adaptor,7
+76,18,http://www.ptt.co.th/th/product/index.php?id=36,IP Multimedia Phone,11
+75,18,http://www.ptt.co.th/th/product/index.php?id=34,IP Analog Gateway,10
+74,18,http://www.ptt.co.th/th/product/index.php?id=37,IP Video Encoder,9
+73,18,http://www.ptt.co.th/th/product/index.php?id=54,โทรศัพท์แขวน,5
+50,3,http://www.ptt.co.th/th/product/index.php?id=53,อุปกรณ์เผื่อเลือก/Option,11
+97,25,http://www.ptt.co.th/th/department/index.php,หมวดหมู่สินค้าทั้งหมด,1
+52,4,http://www.ptt.co.th/th/brand/index.php?id=18&cat_id=58,ฮาร์ดดิสก์สำหรับ DVR,10
+53,10,http://www.ptt.co.th/th/product/index.php?id=59,Wireless Router / Access Point,2
+112,17,http://www.ptt.co.th/th/product/index.php?id=97,Smart Home,1
+9,3,http://www.ptt.co.th/th/brand/index.php?id=3&cl_id=2,ตู้สาขา Forth,4
+11,3,http://www.ptt.co.th/th/brand/index.php?id=2&cl_id=2,ตู้สาขา NEC,6
+12,3,http://www.ptt.co.th/th/department/index.php,หมวดหมู่สินค้าทั้งหมด,12
+13,3,http://www.ptt.co.th/th/brand/brand.php,ซื้อจากแบรนด์สินค้า,8
+19,4,http://www.ptt.co.th/th/product/index.php?id=12,กล้องวงจรปิด อินฟาเรด,4
+17,4,http://www.ptt.co.th/th/brand/index.php?id=7&cl_id=3,Hi-View Camera,2
+96,3,http://www.ptt.co.th/th/product/index.php?id=84,SurgeGuard,7
+16,4,http://www.ptt.co.th/th/brand/index.php?id=7&cl_id=11,Hi-View DVR,1
+63,4,http://www.ptt.co.th/th/brand/index.php?id=9,RaySharp DVR,3
+72,18,http://www.ptt.co.th/th/product/index.php?id=35,IP Video Phone,8
+71,18,http://www.ptt.co.th/th/product/index.php?id=10,โทรศัพท์แบบไอพี,6
+70,16,http://www.ptt.co.th/th/NurseCall/,NC 64 Series,1
+89,22,http://www.ptt.co.th/th/product/index.php?id=75,โปรโมชั่นโทรศัพท์,1
+90,4,http://www.ptt.co.th/th/brand/index.php?id=32,ชุดหูฟัง,12
+91,23,http://www.ptt.co.th/th/product/index.php?id=77,เครื่องมือสำหรับช่าง,1
+92,24,http://www.ptt.co.th/th/product/index.php?id=78,Germany Rack Cabinet,1
+93,24,http://www.ptt.co.th/th/product/index.php?id=71,Accessories Rack,4
+94,24,http://www.ptt.co.th/th/product/index.php?id=80,Germany Wall Rack,3
+95,24,http://www.ptt.co.th/th/product/index.php?id=81,Germany Server Rack,2
+111,18,http://www.ptt.co.th/th/product/index.php?id=96,ip phone accessories,12
+113,30,https://www.ptt.co.th/th/product/index.php?id=99,Next-Gen Firewall,1
+114,3,https://www.ptt.co.th/th/brand/index.php?id=4&cl_id=2,ตู้สาขา Grandstream,3
+115,3,https://www.ptt.co.th/th/brand/index.php?id=51&cl_id=2,ตู้สาขา Ericsson-LG,2
+

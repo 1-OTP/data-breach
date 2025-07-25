@@ -1,0 +1,20 @@
+<p>
+	> DECT base station registers up to 5 DECT handsets and talks to up to 4 handsets concurrently</p>
+<p>
+	> When multiple handsets share the same SIP account, Hunting Group supports the following flexible options :</p>
+<p style="margin-left: 40px;">
+	 <strong>Linear Mode</strong>, all phones ring sequentially in the predestinated order </p>
+<p style="margin-left: 40px;">
+	<strong> Parallel Mode</strong>, all phones ring concurrently and after one phone answers,the remaining available phones can place new calls</p>
+<p style="margin-left: 40px;">
+	<strong> Shared Line Mode</strong>, all phones ring concurrently and always share the same line similar to analog phones</p>
+<p>
+	> Advanced telephony features including Caller ID, Call Waiting, 3-Way Conference, Transfer, Forward, Do Not Disturb, Message Waiting Indication, auto answer, multi-language voice prompt, flexible dial plan</p>
+<p>
+	> Support comprehensive voice codecs including G.711, G.723.1, G.729A/B, G.726 and iLBC</p>
+<p>
+	> Secure and automated provisioning using HTTP/HTTPS/Telnet/TFTP, multiple SIP accounts, SIP over TCP/TLS, SRTP</p>
+<p>
+	> Multi-Languages - English, German, French, Spanish, Dutch, Italian, Czech, Danish, Greek, Norwegian, Polish, Portuguese, Russian, Swedish, Turkish</p>
+<p>
+	> Currently Pending - TR069, IPV6(pending)</p>

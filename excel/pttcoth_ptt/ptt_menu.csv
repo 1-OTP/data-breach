@@ -1,0 +1,18 @@
+menu_id,menu_link,menu_name,menu_sort
+22,http://www.ptt.co.th/th/search/index.php?search_cat=25,โปรโมชั่น,1
+18,http://www.ptt.co.th/th/search/index.php?search_cat=10,โทรศัพท์/โทรสาร/Voip,5
+3,http://www.ptt.co.th/th/search/index.php?search_cat=2,ตู้สาขาโทรศัพท์ ,4
+4,http://www.ptt.co.th/th/search/index.php?search_cat=3,กล้องวงจรปิดและอุปกรณ์เสริม ,7
+5,http://www.ptt.co.th/th/PrisonVisitor/,ระบบเยี่ยมผู้ต้องขัง,13
+9,http://www.ptt.co.th/th/search/index.php?search_cat=13,ซอฟต์แวร์,11
+10,http://www.ptt.co.th/th/product/index.php?id=26,อินเตอร์เน็ต,12
+14,http://ptt.co.th/th/UtilitySystem/index.php,ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ ,14
+16,<blank>,ระบบเรียกพยาบาล,15
+17,http://www.ptt.co.th/th/search/index.php?search_cat=12,อุปกรณ์อิเล็คทรอนิกส์ ,8
+30,#,Network,3
+31,<blank>,Intercom,16
+21,http://www.ptt.co.th/th/search/index.php?search_cat=23,เครื่องพิมพ์ / โทรสาร,10
+23,http://www.ptt.co.th/th/search/index.php?search_cat=26,เครื่องมือสำหรับติดตั้ง,9
+24,http://www.ptt.co.th/th/search/index.php?search_cat=27,Germany Rack,6
+25,http://www.ptt.co.th/th/department/index.php,หมวดหมู่สินค้าทั้งหมด,2
+

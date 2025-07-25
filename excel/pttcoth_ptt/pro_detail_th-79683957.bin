@@ -1,0 +1,56 @@
+<p>
+	 </p>
+<table border="0" style="font: 16px/18px Arial; width: 468px; text-align: left; color: rgb(119, 119, 119); text-transform: none; text-indent: 0px; letter-spacing: normal; margin-left: 30px; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-size-adjust: none; font-stretch: normal; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+	<tbody>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Telephone Interface</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				24 x RJ11 FXS ports and 1 x 50-pin Telco connector</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Network Interface</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				1 x 10M/100 Mbps auto-sensing RJ45 port</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Audio Codecs</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				G.711, G. 723, G.726 (40/32/24/16), G.729A/B/E, iLBC</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Security</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				SRTP, TLS/SIPS</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Fax over IP</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				T.38 compliant Group 3 Fax Relay up to 14.4 kbps and auto switch to G.711 for fax pass-through</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Configuration</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Web based, TFTP, HTTP, HTTPS</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Power Input</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				12 Vdc, 5.0Amp</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Compliance</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				FCC Part 15B; CE, EN55022/EN55024; C-Tick</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://www.grandstream.com/products/gxw_series/gxw400x/marketing/gxw4024_brochure_english.pdf" target="_blank">รายละเอียดเพิ่มเติม</a></p>

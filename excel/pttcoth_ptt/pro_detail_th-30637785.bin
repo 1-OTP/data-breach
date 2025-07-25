@@ -1,0 +1,66 @@
+<table border="0" cellpadding="0" cellspacing="0" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 16px;" width="100%">
+	<tbody>
+		<tr>
+			<td align="left" valign="top" width="59%">
+				<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);"> The GXV3611IR_HD is an indoor Infrared (IR) fixed dome IP camera with a high-definition 2.8mm lens – making it ideal for wide angle monitoring of nearby subjects in environments such as banks, hotels, retail, offices or building entrances. The camera’s advanced Image Sensor Processor (ISP) is powered by a state of the art auto-exposure/auto-white-balance algorithm which allows for exceptional performance in all lighting conditions. Pair the GXV3611IR_HD with Grandstream’s GVR3550 Network Video Recorder (NVR), which supports plug-n-play with all Grandstream IP cameras, to create a powerful recording and monitoring solution. The GXV3611IR_HD can also be managed by GSURF Pro (Grandstream’s FREE Video Management Software that allows simultaneous control of up to 72 cameras) along with other ONVIF-compliant video management systems. The GXV3611IR_HD IP camera features industry-leading SIP/VoIP for 2-way audio and video streaming to both video and smart phones. It contains integrated PoE, IR-CUT for day and night mode, microphone, speaker, and a flexible HTTP API for easy integration with other surveillance systems.</span></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<ul>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Integrated microphone, speaker and smoke detector for maximum and out-of-the-box video + audio + smoke monitoring using industry standard SIP & VoIP technology</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Motion Detection and Alert Notification</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Integrated Power–over-Ethernet (802.3af)</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">24MB pre-/post-event recording buffer</span></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				 </td>
+		</tr>
+		<tr>
+			<td align="left" colspan="2">
+				<span class="style8" style="font-size: 17px; color: rgb(102, 102, 102);">Features</span></td>
+		</tr>
+		<tr>
+			<td align="left" colspan="2">
+				<ul>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">High quality Megapixel CMOS sensor and 2.8mm HD lens</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Advanced multi-streaming real-time H.264, Motion JPEG at full frame rate</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Firmware Update and Factory Reset performed using the GS_Search utility tool</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Embedded Video Analytics and SIP/VoIP/IMS support</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Smart IR for optimal White Balance and Exposure</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Enhanced H.264 encoder for lower bit rate</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Integrated micro SDHC interface for local embedded storage</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">High-performance streaming server allowing multiple simultaneous viewers</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Supports Time-lapse photography</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Automatic discovery by Windows “Network” (UPnP) or Apple Mac (Bonjour) with Safari native support if MJPEG is selected</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Supports both variable bit rate and variable frame rate</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Automatic Provisioning via DHCP Option 66</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Supports Privacy Masks, Disable Telnet to enhance security</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Full ONVIF conformance with extensions</span></li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	 </p>

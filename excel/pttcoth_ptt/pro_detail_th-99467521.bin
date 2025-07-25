@@ -1,0 +1,56 @@
+<table border="0" cellpadding="0" cellspacing="0" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 16px;" width="100%">
+	<tbody>
+		<tr>
+			<td align="left" valign="top" width="59%">
+				<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">  The GXV3610 v2 series are weather-proof Infrared (IR) fixed dome IP cameras with a high-definition 3.6mm lens - making them ideal for wide-angle monitoring of nearby subjects in environments such as banks, hotels, retail, offices, warehouses, and building entrances. The camera’s advanced Image Sensor Processor (ISP) is powered by a state of the art auto-exposure/auto-white balance algorithm which allows for exceptional performance in all lighting conditions. Pair the GXV3610 v2 series with Grandstream’s GVR3550 Network Video Recorder (NVR), which supports plug-n-play with all Grandstream IP cameras, to create a powerful recording and monitoring solution. The GXV3610 v2 series can also be managed with GSURF Pro (Grandstream’s FREE Video Management Software that allows simultaneous control of up to 72 cameras) along with other ONVIF-complaint video management systems. This indoor/outdoor HD IP Camera features industry-leading SIP/VoIP for 2-way audio and video streaming to both video and mobile phones. It contains integrated PoE, IR-CUT for day and night mode, and a flexible HTTP API for easy integration with other surveillance systems. </span></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				 </td>
+		</tr>
+		<tr>
+			<td align="left" colspan="2">
+				<span class="style8" style="font-size: 17px; color: rgb(102, 102, 102);">Features</span></td>
+		</tr>
+		<tr>
+			<td align="left" colspan="2">
+				<ul>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">High quality 1.2 Megapixel (GXV3610_HD) and 3.1 Megapixel (GXV3610_FHD) CMOS sensors and HD lens</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Advanced multi-streaming real-time H.264, Motion JPEG at 720p or 1080p resolutions in full frame rate</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Supports Motion Detection and Notifications on PC client</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Advanced WDR (Wide Dynamic Range) in Full HD (1080p) model</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Pre/post event recording buffer</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Firmware Update and Factory Reset via GS_Search utility tool</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Supports Time-lapse recording</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Embedded Video Analytics and SIP/VoIP/IMS support</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Built-in High performance streaming server allow multiple simultaneous viewers</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Automatic discovery by Windows “Network” (UPnP) or Apple Mac (Bonjour) with Safari native support if MJPEG is selected</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Supports both variable bit rate and variable frame rate</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Enhanced H.264 encoder for lower bit rate</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Smart IR for Optimal White Balance and Exposure</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Full ONVIF conformance with extensions in the near future</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">Automatic Provisioning via DHCP Option 66</span></li>
+					<li>
+						<span class="style7" style="font-size: 15px; color: rgb(153, 153, 153);">GXV3610_FHD supports wide dynamic range (WDR)</span></li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	 </p>

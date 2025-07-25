@@ -1,0 +1,133 @@
+<p>
+	<span style="font-size:14px;">รองรับ 992 Port<br />
+	960 สายในแบบธรรมดา (SLT)<br />
+	640 สายในแบบ Digital Key<br />
+	640 สายในแบบ IP Panasonic<br />
+	128 สายในแบบ IP SIP Telephone<br />
+	512 สายในแบบ ไร้สาย  2.4 GHz<br />
+	640 สายนอกแบบ Analog<br />
+	600 CH (4 Card PRI) สายนอกแบบ ISDN<br />
+	32 CH สายนอกแบบ IP (SIP Trunk)<br />
+	640 Ch (IP Gate Way Channel) ช่องทางการเชื่อมต่อระบบภายนอกแบบ Voip<br />
+	รองรับการติดตั้งระบบตอบรับอัตโนมัติในตัว<br />
+	รองรับการโปรแกรมทางไกลจากศูนย์บริการ (Remote Maintenance)<br />
+	ระบบ Charge Battery สำรองในตัว<br />
+	โทรศัพท์หน้าประตู (Doorphone Intercom)<br />
+	เพิ่ม Function การโชว์เบอร์โทรเข้า Caller ID) </span></p>
+<p>
+	<span style="color:#000080;"><span style="font-size: 16px;"><u><strong>คุณสมบัติพิเศษของระบบ</strong></u></span></span></p>
+<p>
+	<span style="font-size:14px;">1.ขนาด 992 Port (สายนอก + สายใน )<br />
+	2. รองรับ Voip Trunk ระบบสามารถที่จะเชื่อมต่อกับ Server Gateway กับผู้ให้บริการ Voip เช่น Skype เพื่อให้สามารถโทรผ่าน<br />
+	เครือข่าย Free (Internet) ซึ่งจะทำให้การ โทรออกไปยังต่างประเทศนั้นมีราคาถูกมากกว่าการโทรผ่านช่องทาง Local Trunk<br />
+	ที่มีอยู่เดิม<br />
+	3. รองรับระบบตอบรับอัตโนมัติ ( DISA) สามารถบันทึกเสียงตอบรับ เช่น “ บริษัทออโตเมชั่นเซอร์วิสจำกัดสวัสดีคะ กรุณากดหมาย<br />
+	เลขภายในที่ท่านทราบหรื่อกด ‘0’ เพื่อติดต่อ Operator” ลูกค้าที่โทรเข้ามาและรู้เบอร์ภายในก็สามารถกดเบอร์เรียกไปยังเบอร์ที่ต้อง<br />
+	การได้โดยไม่ต้องมีคนโอนสายให้<br />
+	4. รองรับการเชื่อมต่อหลายสาขาเข้าด้วยกันในกรณีที่คุณมี Leased Line เชื่อมต่อระหว่างสาขาอยุ่แล้วก็สามารถเชื่อมต่อระบบตู้ทั้ง<br />
+	สองสาขาเข้าเป็ระบบเดียวกัน ซึ่งจะทำให้การโทรคุยกันระหว่างสาขาไม่มีค่าใช้จ่าย อีกทั้งยังสามารถโอนสายของลูกค้าระหว่างสาขา<br />
+	ได้ทำให้เกิดความพึงพอใจกับลูกค้า ด้วยเทคโนโลยี่ Q-Sig Protocol ซึ่งเป็น Protocol มาตรฐาน จึงทำให้การเชื่อมต่อเป็นเรื่องง่าย<br />
+	สามารถเชื่อมต่อระบบเข้ด้วยกันทั้ง E&M, ISDN, Voip เป็นต้น<br />
+	5. ศูนย์บริการสามารถแก้ไขโปรแกรมทางไกลด้วยระบบ Remote Maintenance จะทำให้การปรับเปลี่ยน แก้ไขโปรแกรมทำได้รวดเร็ว<br />
+	6. มีระบบ Charge Battery และ Power Backup ในตัวเพียงแค่คุณเพิ่ม Battery ก็สามารถสำรองไฟในการทำงานเมื่อไฟดับโดย<br />
+	ไม่ต้องซื้อ UPS เพิ่ม<br />
+	7. รองรับระบบ Voip ซึ่งเป็นระบบที่สามารถส่งสัญญาณเสียงไปบน Data Network ได้ จะทำให้การสื่อสารเป็นเรื่องง่ายโดยใช้ LAN เ<br />
+	พียงเส้นเดียวก็สามารถรองรับการสื่อสารทั้งเสียงและData Computer<br />
+	8. รองรับระบบการสื่อสารไร้สาย ไร้ขีดจำกัด อิสระในการสื่อสารด้วยเทคโนโลยี Cell Station ที่ทำงานเหมือนโครงข่ายโทรศัพท์มือถือ<br />
+	ทำให้คุณสามารถออกแบบระบบให้ครอบคลุมตามพื้นที่การใช้งานจริงได้  เสียงที่ชัดเจนสดใสไร้สัญญาณรบกวนด้วยเทคโนโลยี 2.4 GHz<br />
+	9. สามารถแบ่งทรัพยากรของตู้ (สายนอก,สายใน, เสียงของระบบตอบรับ) และแยก Function การใช้งานออกได้สูงสุด 8 บริษัท ในกรณี<br />
+	ที่บริษัทแม่และบริษัทในเครือใช้ตู้สาขาเดียวกัน<br />
+	10. รองรับการติดตั้งระบบตอบรับอัตโนมัติและโอนสายอัตโนมัติในตัว ช่องสัญญาณรับสายเลือกได้ 4, 8 และ12 วงจรเพื่อให้เหมาะสมตาม<br />
+	จำนวนสายนอก<br />
+	11.Caller ID Detection & Transmission to SLT สามารถแสดงหมายเลขโทรเข้าได้ทั้งเครื่องดิจิตอลและเครื่องธรรมดาชนิด caller ID<br />
+	รวมทั้งการโอนสายนอกต่อๆกันไปก็สามารถโชว์เบอร์ได้ (อุปกรณ์เสริม)<br />
+	12.แยกระดับการล็อกโทรออกของสายในได้ 64 ระดับ<br />
+	13.มีฟังก์ชั่นให้กดรหัสก่อนโทรออกตั้งได้ 1,000 รหัส<br />
+	14.บันทึกหมายเลขสำหรับโทรออกของแต่ละเครื่อง 10 หมายเลข<br />
+	15.บันทึกหมายเลขสำหรับโทรออกส่วนกลาง 1,000 หมายเลข<br />
+	16.จำนวนหลักหมายเลขภายในที่กำหนดได้ 1 - 4 หลัก<br />
+	17.จำนวนข้อมูลการใช้โทรศัพท์ที่เก็บได้ (SMDR) 200 ครั้ง<br />
+	18. มีฟังก์ชั่น UCD : Uniform Call Distribution) เป็นฟังก์ชั่นแบ่งการโทรเข้าของสายนอกให้พนักงานรับสายเท่าๆกัน<br />
+	19. มีฟังก์ชั่น Call Forwarding เป็นฟังก์ชั่นการโอนสายอัตโนมัติไปยังเบอร์ภายในอื่นหรือโอนเข้ามือถือในกรณีที่ไม่อยู่ที่โต๊ะ<br />
+	20. แยกช่วงเวลาของตู้สาขาได้ 3 ช่วงเวลา ช่วงเวลาทำงาน, ช่วงพักเที่ยง และช่วงเลิกงาน ทำให้สามารถแยกฟั่งก์ชั่นการทำงานของตู้<br />
+	สาขาตามช่วงเวลาได้เช่นกำหนดให้พนักงานโทรออกได้เฉพาะช่วงเวลาทำงาน ซึ่งจะสามารถลดค่าโทรศัพท์ทีไม่จำเป็นได้<br />
+	21. รองรับ Option Doorphone สำหรับติดหน้าประตูเพื่อให้เกิดความสะดวกมากกว่าเสียงออดธรรมดาเพราะสามารถพูดคุยกับผู้มาติดต่อได้<br />
+	22. สามารถเพิ่ม Option Door Openers เพื่อต่อระบบตู้สาขาร่วมกับระบบ Access Control สามารถสั่งเปิดประตูจากเครื่องโทรศัพท์ได้</span></p>
+<p style="text-align: center;">
+	<span style="color:#000080;"><span style="font-size: 16px;"><u><strong>แผนผังการเชื่อมต่อระบบ</strong></u></span></span></p>
+<p style="text-align: center;">
+	<img alt="" src="/assets/images/images_finder/images/diagram2.jpg" style="width: 620px; height: 322px;" /></p>
+<p style="text-align: center;">
+	<img alt="" src="/assets/images/images_finder/images/option-tel.jpg" /></p>
+<p style="text-align: center;">
+	 </p>
+<p>
+	<font size="+1"><font size="3"><u><strong>Option list for TDE600</strong></u><br />
+	KX-TDE600 Main Shelf<br />
+	KX-TDE620 Expansion Shelf<br />
+	KX-TDA0103 L-Type Power Supply Unit<br />
+	KX-TDA0104 M-Type Power Supply Unit<br />
+	KX-TDE6101 Main Processing card<br />
+	KX-TDE0110 16-Channel VoIP DSP Card<br />
+	KX-TDE0111 64-Channel VoIP DSP Card<br />
+	KX-TDA0196 Remote Card<br />
+	KX-NCS4104 4-Channel IP Trunk Activation Key<br />
+	KX-NCS4208 8-Channel IP Softphone/IP Proprietary Telephone Activation Key<br />
+	KX-NCS4508 8-Channel IP Proprietary Telephone Activation Key<br />
+	KX-NCS4716 16-Channel SIP Extension Activation Key<br />
+	KX-NCS4950 Feature Enhancement<br />
+	KX-TDA0184 8-Port E & M Trunk Card<br />
+	KX-TDA0187 T-1 Trunk Card<br />
+	KX-TDA0188 E-1 Trunk Card<br />
+	KX-TDA0189 8-Port Caller ID/Pay Tone Card<br />
+	KX-TDA0193 8-Port Caller ID Card<br />
+	KX-TDA0284 4-Port BRI Card<br />
+	KX-TDA0288 8-Port BRI Card<br />
+	KX-TDA0290CE/CJ PRI Card (PRI30)<br />
+	KX-TDA0484 4-Channel VoIP Gateway Card<br />
+	KX-TDA0490 16-Channel VoIP Gateway Card<br />
+	KX-TDA6181 16-Port Analogue Trunk Card<br />
+	KX-TDA0170 8-Port Digital Hybrid Extension Card<br />
+	KX-TDA0172 16-Port Digital Extension Card<br />
+	KX-TDA0173 8-Port Single Line Telephone Extension Card<br />
+	KX-TDA0177 16-Port Single Line Telephone Extension Card<br />
+	KX-TDA0470 16-Channel VoIP Extension Card<br />
+	KX-TDA6174 16-Port Single Line Telephone Extension Card<br />
+	KX-TDA6175 16-Port Single Line Telephone Extension with Message Lamp Card<br />
+	KX-TDA6178 24-Port Single Line Telephone Extension with Caller ID<br />
+	KX-TDA0144 8 Cell Station Interface Card (CSIF8)<br />
+	KX-TDA0161 4-Port Doorphone Card<br />
+	KX-TDA0162 2-Port Doorphone Card (German Type)<br />
+	KX-TDA0164 4-Port External Input/Output Card<br />
+	KX-TDA0168 Extension Caller ID Card<br />
+	KX-TDA0190 Optional 3-Slot Base Card<br />
+	KX-TDA0191 4-Channel Message Card<br />
+	KX-TDA0192 2-Channel Simplified Voice Message card<br />
+	KX-TDA0194 4-Channel Simplified Voice Message card<br />
+	KX-TDA6166 16-Channel Echo Canceller Card<br />
+	KX-TDA6110 Bus Master Card<br />
+	KX-TDA6111 Bus Master Expansion Card<br />
+	KX-TDA6201 Mounting Kit for expanding to a 3- or 4- shelf System<br />
+	KX-TDA0141CE 2-Channel Cell Station Unit Using a DHLC/DLC Card for DECT Portable Station<br />
+	KX-TDA0142CE 4-Channel Cell Station Unit Using a CSIF Card for DECT Portable Station<br />
+	KX-TDA0158 8-Channel High-density Cell Station Unit Using a DHLC/DLC Card for DECT Portable Station<br />
+	KX-T7765 KX-NT366/346/343 Option KX-NT305/303 and NT307<br />
+	KX-NT300Series KX-DT346/343/333 Option KX-DT301/NT303 and NT307<br />
+	KX-DT300Series KX-T7636/33/30/25/65/67/68 and Option T7640 ,T7603 and T7601<br />
+	KX-T76Series KX-T7735/30/50/20 and Option T774<br />
+	KX-T77Series<br />
+	Cabinet<br />
+	Power Supply Units (PSUs)<br />
+	Main Processing card<br />
+	IPCMPR Option Cards<br />
+	Activation Key Cards<br />
+	Physical Trunk Cards<br />
+	Physical Extension Cards<br />
+	Other Physical Cards<br />
+	Inter Connection<br />
+	Additional Accessories<br />
+	Cell Stations<br />
+	Doorphone<br />
+	Telephones</font></font></p>
+<p>
+	<span style="font-size:14px;"><strong>รายละเอียดเพิ่มเติม/ติดต่อสอบถาม โทร:</strong><span style="font-size:12px;"><b style="color: #a00;font-size:20px;">02-933-9301</b></span>(auto 10 สาย) </span></p>

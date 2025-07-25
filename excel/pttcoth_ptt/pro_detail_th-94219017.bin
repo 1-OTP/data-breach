@@ -1,0 +1,35 @@
+<ul style="outline: none; list-style-image: url(http://www.panasonic.com/business/psna/images/content/gray-square.gif); margin-bottom: 0px; margin-left: 15px; margin-top: 0px; padding-left: 0px; padding-bottom: 10px; color: rgb(76, 76, 76); font-family: Arial, Helvetica, Verdana, sans-serif; line-height: 18px;">
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max CO Lines: </strong>640</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Analog CO's: </strong>640</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max VoIP (H.323) trunks:</strong> 32</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max VoIP (SIP) trunks: </strong>64</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Total Extensions: </strong>992 (1152 with DXDP)* <br style="outline: none;" />
+		*Even when Digital XDP is used, each shelf supports a maximum of 256 KX-DT300/KX-T7600 series</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Analog Proprietary Extensions: </strong>320</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Single Line Telephones :</strong> 960</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max Digital Proprietary extensions: </strong>640 (DT300, T7600 series)</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max IP Proprietary Phone extensions: </strong>704</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Max SIP extensions:</strong> 128</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Multi-Cell Wireless Compatible: </strong>Yes</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Maximum Cell Stations (Antennas): </strong>128</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Maximum Portable Handsets: </strong>512</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Direct Station Select (DSS) Consoles: </strong>64</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Dimensions </strong>(H x W x D): 16.3" x 16.9" x 10.6" (per shelf)</span></li>
+	<li style="outline: none; padding-bottom: 10px;">
+		<span style="font-size:14px;"><strong>Weight:</strong> under 35 lbs (per shelf)</span></li>
+</ul>

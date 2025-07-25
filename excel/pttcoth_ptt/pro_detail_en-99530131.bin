@@ -1,0 +1,168 @@
+<p>
+	 </p>
+<table border="0" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td width="20%">
+				<strong>Air Interfaces</strong></td>
+			<td width="80%">
+				Telephony standards: DECT / GAP Frequency range: 1880 - 1900 MHz (Europe), 1920 - 1930 MHz (US)<br />
+				Number of channels: 120 (Europe), 60 duplex (US) channels<br />
+				Emission power: 10 mW (average power per channel)<br />
+				Range: up to 300m outdoors/50m indoors</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Networking Interface</strong></td>
+			<td>
+				One 10/100Mbps auto-sensing Ethernet port (RJ45) ( DP715 Base Station only)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>LED Indicators </strong></td>
+			<td>
+				Base Station : Power, Network, Register, Call</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Handset Display</strong></td>
+			<td>
+				1.7” 102x80 FSTN LCD with color backlight</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Factory Reset Button</strong></td>
+			<td>
+				Yes ( DP715 Base Station only)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Audio Interface</strong></td>
+			<td>
+				Handsfree speaker (Handset only)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Voice over Packet Capabilities</strong></td>
+			<td>
+				Base Station : Dynamic Jitter Buffer<br />
+				Handset : Speakerphone with Acoustic Echo Cancellation</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Voice Compression</strong></td>
+			<td>
+				G.711 with Annex I (PLC) and Annex II (VAD/CNG), G.723.1, G.726-32 AAL2, G.729A/B, iLBC</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Telephony Features</strong></td>
+			<td>
+				Caller ID display or block, call waiting, Flash, blind or attended transfer, forward, hold, do not disturb, 3-way conference/td></td>
+		</tr>
+		<tr>
+			<td>
+				<strong>QoS</strong></td>
+			<td>
+				Layer 2 (802.1Q VLAN/802.1p), Layer 3 (ToS, DiffServ, MPLS)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>IP Transport</strong></td>
+			<td>
+				RTP/RTCP</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>DTMF Method</strong></td>
+			<td>
+				In-audio, RFC2833 and/or SIP Info</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>IP Signaling</strong></td>
+			<td>
+				SIP (RFC 3261)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Multiple SIP accounts per base station</strong></td>
+			<td>
+				Up to five (5) distinct SIP accounts per system; Independent SIP account per handset; Multiple handsets per SIP account</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Hunting Group</strong></td>
+			<td>
+				Linear mode; Parallel mode; Shared Line mode</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Provisioning</strong></td>
+			<td>
+				HTTP, HTTPS, TELNET, TFTP, TR-069 (pending), secure and automated provisioning</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Security</strong></td>
+			<td>
+				Security protection: SIP over TLS and SRTP.</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Device Management</strong></td>
+			<td>
+				Web interface or secure (AES encrypted) central configuration file for mass deployment</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Device Management</strong></td>
+			<td>
+				Web interface or secure (AES encrypted) central configuration file for mass deployment. Support device configuration via built-in IVR, Web browser or central configuration file through TFTP, HTTP or HTTPS. Auto/manual provisioning system. NAT-friendly remote software upgrade for deployed devices including behind firewall/NAT. Syslog support</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Phonebook(Per Handset)</strong></td>
+			<td>
+				200 numbers (up to 24 digits) with an associated name (up to 16 characters); 10 outgoing call entries; 30 incoming calls entries</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Multi-language Display</strong></td>
+			<td>
+				Base Station Web UI: English; Voice Prompt : English, Spanish; Handset LCD Menu (15): English, French, German, Spanish, Dutch, Italian, Czech, Danish, Greek, Norwegian, Polish, Portuguese, Russian, Swedish, Turkish.</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Polyphonic Ringtones</strong></td>
+			<td>
+				18 different ringer melodies are available to indicate an incoming call (internal intercom or external VoIP)</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Battery Life</strong></td>
+			<td>
+				10-hour talk time, 80-hour standby time, 16-hour charging time</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<strong>Box Content</strong></td>
+			<td>
+				DP715:<br />
+				-1 Base Unit<br />
+				-1 handset including 2 rechargeable batteries(AAA, 1,2V/500mAh, NiMH)<br />
+				-1 power supply plug for base unit<br />
+				-1 Ethernet cable<br />
+				-service card<br />
+				-user guide<br />
+				<br />
+				DP710:<br />
+				-1 handset including 2 rechargeable batteries(AAA, 1,2V/500mAh, NiMH)<br />
+				-1 charger unit<br />
+				-1service card<br />
+				-1 user guide</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://www.grandstream.com/products/dp_series/dp71x/marketing/dp71x_brochure_english.pdf" target="_blank">รายละเอียดเพิ่มเติม</a></p>

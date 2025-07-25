@@ -1,0 +1,41 @@
+<p>
+	<span style="font-size:16px;"><strong>ตารางราคาสายโทรศัพท์แบบกลม TIEV </strong></span><br />
+	 </p>
+<table border="0" cellpadding="1" cellspacing="1" style="width: 700px;">
+	<tbody style="">
+		<tr style="">
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 92, 5);">จำนวนคู่สาย Number of cores</span></span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 92, 5);">ราคา/เมตร ขนาด 0.5 มม.</span></span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(255, 255, 255);"><span style="background-color: rgb(255, 92, 5);">ราคา/เมตร ขนาด 0.65 มม.</span></span></strong></span></td>
+		</tr>
+		<tr style="">
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">2C</span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">3.85</span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">5.45</span></strong></span></td>
+		</tr>
+		<tr style="">
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">4C</span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">6.25</span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">9.35</span></strong></span></td>
+		</tr>
+		<tr style="">
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">6C</span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">8.85</span></strong></span></td>
+			<td style="text-align: center;">
+				<span style="font-size: 16px;"><strong style=""><span style="color: rgb(45, 137, 239);">14.00</span></strong></span></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	 </p>

@@ -1,0 +1,50 @@
+<p>
+	 </p>
+<table border="0" style="font: 16px/18px Arial; width: 468px; text-align: left; color: rgb(119, 119, 119); text-transform: none; text-indent: 0px; letter-spacing: normal; margin-left: 30px; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-size-adjust: none; font-stretch: normal; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+	<tbody>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>FXO Ports</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				8 FXO (GXW4104)</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Ethernet Ports</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				2 RJ45 10/100Mbps (LAN/WAN)</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Video Input</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Yes - supports H.264 video codec (up to 30fps and CIF resolution, Hardware Version below 2.0 only)</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Audio Codecs</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				G711u/a, G723, G729 and GSM, and T.38 compliant</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Configuration</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				Web based, and remote TFTP/HTTP</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Power Input</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				12 Vdc, 1.25Amp</td>
+		</tr>
+		<tr>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				<strong>Compliance</strong></td>
+			<td style="padding: 20px 10px 0px 0px; vertical-align: top;">
+				FCC, CE</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<a href="http://www.grandstream.com/products/gxw_series/gxw410x/marketing/gxw410x_brochure_english.pdf" target="_blank">รายละเอียดเพิ่มเติม</a></p>

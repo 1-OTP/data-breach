@@ -1,0 +1,82 @@
+cat_id,cat_name
+61,สายโทรศัพท์ Telephone Cable 
+62,สวิตช์ฮับ
+59,Wireless Router/ Access Point
+60,ระบบอ่านมิเตอร์ไฟฟ้าอัตโนมัติ
+14,4 Channel
+15,8 Channel
+4,อินเตอร์เน็ตอพาร์ทเม้นท์
+7,โทรศัพท์แบบเครื่องคีย์
+8,โทรศัพท์ไร้สาย
+9,โทรศัพท์ตั้งโต๊ะ
+10,IP Phone
+12,Infrared Camera
+13,Standard Camera
+17,Analog PABX
+21,Line Mobile
+18,IP PBX
+20,Voice Logger
+22,VIOPs
+23,Key Card
+24,Logocheque
+25,Modem
+26,Embedded
+28,Housing
+27,Wireless Access Point
+29,ตัวขยายสัญญาณ
+30,ขาตั้งกล้อง
+31,Accessories
+32,Access Control 
+33,Analog Telephone Adaptor 
+35,IP Video Phone 
+34,IP Analog Gateway
+39,24 Channel
+37,IP Video Encoder
+48,USB Business Card
+40,32 Channel
+42,Fax Consumables
+36,IP Multimedia Phone
+49,NC 64 Series
+46,ET-Bill
+47,Voice Recorder
+50,ระบบเยี่ยมผู้ต้องขัง
+51,ค่ามัดจำสินค้า
+52,อุปกรณ์สำรองไฟ/Batter Backup
+54,โทรศัพท์แขวน
+53,อุปกรณ์เผื่อเลือก /Option
+56,หัวต่อ/Connecter
+55,สายนำสัญญาณ
+58,ฮาร์ดดิสก์
+70,เครื่องพิมพ์เลเซอร์อเนกประสงค์
+72,16 Channel
+75,โปรโมชั่นโทรศัพท์
+71,accessories PABX
+76,ชุดหูฟัง
+77,เครื่องมือสำหรับช่าง
+78,Germany Rack Cabinet
+80,Germany Wall Rack
+81,Germany Server Rack
+84,Surge Guard
+88,ip video conference
+93,headset
+94,KOCOM 
+95,โปรโมชั่น 11.11
+96,ip phone accessories
+97,Smart Home
+102,กล้องอัจฉริยะ
+99,Next-Generation Firewall
+100,Virtual Next-Generation Firewall
+101,Cloud-Native Network Firewall
+103,speaker
+104,hub
+105,Room System
+106,พวงหรีด
+107,Unmanaged Ethernet Switch
+108,Outdoor Ethernet Switch
+109,Layer2 Managed Ethernet Switch
+110,Layer3 Managed Ethernet Switch
+111,SFP Module for Ethernet Switch
+112,Multi-Wan Router
+113,Convergence Product
+114,<blank>
+

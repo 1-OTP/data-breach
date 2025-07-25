@@ -1,0 +1,36 @@
+<div>
+	 </div>
+<div>
+	<p>
+		<strong>Support Log Analysis for Thailand Computer LAW 2550</strong></p>
+	<p>
+		- ระบบจัดเก็บ Log ตามกฎหมายพ.ร.บ.คอมพิวเตอร์ ปี 2550</p>
+	<p>
+		<strong>Client support Fix IP both DHCP</strong></p>
+	<p>
+		- กำหนดค่า IP Address ของอุปกรณ์จาก server</p>
+	<p>
+		<strong>Service Package</strong></p>
+	<p>
+		- สามารถกำหนดการใช้งาน เช่น รายวัน,รายเดือน,รายสัปดาห์ โดยที่ระบบจะตัดเองอัติโนมัติ<br />
+		<strong>Local Radius Billing Interface ( Prepaid / Postpaid / Refill Day )</strong></p>
+	<p>
+		- ระบบกำหนดการจ่ายเงิน หรือ เติมวัน<br />
+		<strong>Loadbalacing Multiwan</strong> <strong>with link Fail Over</strong></p>
+	<p>
+		- รองรับการใช้งานอินเตอร์เน็ตหลายเบอร์<br />
+		<strong>Squid Cache Transparent Proxy squid</strong></p>
+	<p>
+		- สามารถ Block เว็บ หรือ ไฟล์ ที่ไม่ต้องการเข้าใช้งานได้ เช่น .bit<br />
+		<strong>Limite Bandwidth per user /Mac Address pair</strong></p>
+	<p>
+		- กำหนดความเร็วของผู้เข้าใช้งานเป็น User ได้</p>
+	<p>
+		<strong>Port Forwarding</strong></p>
+	<p>
+		- สามารถกำหนดค่าการดูกล้องวงจรปิดผ่านระบบได้</p>
+	<p>
+		<strong>Support LAN and Wireless</strong></p>
+	<p>
+		- ระบบสามารถรองรับได้ทั้ง LAN และ Wireless</p>
+</div>
